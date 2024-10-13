@@ -1,0 +1,36 @@
+{
+    "source": "CNN",
+    "topic": "Vaccination and Immunization",
+    "comments": [
+      {
+        "id": "CNN001",
+        "text": "Getting vaccinated is our social responsibility. It protects everyone.",
+        "likes": 312,
+        "replies": 45
+      },
+      {
+        "id": "CNN002",
+        "text": "The science is clear. Vaccines are safe and effective.",
+        "likes": 278,
+        "replies": 39
+      },
+      {
+        "id": "CNN003",
+        "text": "I'm concerned about vaccine misinformation spreading online.",
+        "likes": 201,
+        "replies": 33
+      },
+      {
+        "id": "CNN004",
+        "text": "Vaccine mandates make sense for public health, just like seatbelt laws.",
+        "likes": 176,
+        "replies": 28
+      },
+      {
+        "id": "CNN005",
+        "text": "I'm grateful for the scientists who developed these vaccines so quickly.",
+        "likes": 245,
+        "replies": 37
+      }
+    ]
+}
