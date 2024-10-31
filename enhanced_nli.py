@@ -7,18 +7,24 @@ from spacy.tokens import Token
 import glob
 import json
 from datetime import datetime
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
 
 # Register the 'synonyms' extension
-def get_synonyms(token):
+def get_synonyms(word):
     synonyms = set()
-    for syn in wordnet.synsets(token.text):
+    for syn in wordnet.synsets(word):
         for lemma in syn.lemmas():
             synonyms.add(lemma.name())
     return synonyms
 
-Token.set_extension('synonyms', getter=get_synonyms, force=True)
+# Instead, add these:
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
 
-nlp = spacy.load("en_core_web_sm")
+lemmatizer = WordNetLemmatizer()
 
 # Define keyword pairs
 keyword_pairs = [
@@ -38,23 +44,18 @@ def enhanced_nli(comment_text, keyword1, keyword2):
     Classify the relationship between a comment and a keyword pair
     '''
     text = str(comment_text).lower()
-    doc = nlp(text)
-
-    # Create set of tokens and their lemmas
-    text_tokens = set(token.text for token in doc)
-    text_lemmas = set(token.lemma_ for token in doc)
+    text_tokens = set(word_tokenize(text))
+    text_lemmas = set(lemmatizer.lemmatize(word) for word in text_tokens)
 
     # Create set of keywords and their lemmas
-    keyword1_tokens = set(token.text for token in nlp(keyword1))
-    keyword1_lemmas = set(token.lemma_ for token in nlp(keyword1))
-    keyword2_tokens = set(token.text for token in nlp(keyword2))
-    keyword2_lemmas = set(token.lemma_ for token in nlp(keyword2))
+    keyword1_tokens = set(word_tokenize(keyword1.lower()))
+    keyword1_lemmas = set(lemmatizer.lemmatize(word) for word in keyword1_tokens)
+    keyword2_tokens = set(word_tokenize(keyword2.lower()))
+    keyword2_lemmas = set(lemmatizer.lemmatize(word) for word in keyword2_tokens)
 
     # Check if any keyword is in the text
-    keyword1_match = any(kw in text_tokens or kw in text_lemmas or any(kw in token for token in text_tokens) 
-                        for kw in keyword1_tokens | keyword1_lemmas)
-    keyword2_match = any(kw in text_tokens or kw in text_lemmas or any(kw in token for token in text_tokens) 
-                        for kw in keyword2_tokens | keyword2_lemmas)
+    keyword1_match = any(kw in text_tokens or kw in text_lemmas for kw in keyword1_tokens | keyword1_lemmas)
+    keyword2_match = any(kw in text_tokens or kw in text_lemmas for kw in keyword2_tokens | keyword2_lemmas)
 
     if keyword1_match and not keyword2_match:
         return 'entailment', keyword1
@@ -63,10 +64,12 @@ def enhanced_nli(comment_text, keyword1, keyword2):
     elif keyword1_match and keyword2_match:
         return 'neutral', None
     else:
-        for token in doc:
-            if any(syn.lower() in keyword1.lower() for syn in token._.synonyms):
+        # Check synonyms
+        for token in text_tokens:
+            token_synonyms = get_synonyms(token)
+            if any(syn.lower() in keyword1.lower() for syn in token_synonyms):
                 return 'entailment', keyword1
-            elif any(syn.lower() in keyword2.lower() for syn in token._.synonyms):
+            elif any(syn.lower() in keyword2.lower() for syn in token_synonyms):
                 return 'entailment', keyword2
 
     return 'neutral', None
