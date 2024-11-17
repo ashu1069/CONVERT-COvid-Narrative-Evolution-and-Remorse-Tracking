@@ -16,7 +16,7 @@ def setup_logging():
     return logging.getLogger(__name__)
 
 def load_dataset(folder_path: Path) -> dict[str, pd.DataFrame]:
-    """Load datasets from multiple channel folders"""
+    """Load datasets from multiple channel folders (limited to 100 files per channel)"""
     logger = logging.getLogger(__name__)
     logger.info(f"Loading datasets from {folder_path}")
     
@@ -31,12 +31,16 @@ def load_dataset(folder_path: Path) -> dict[str, pd.DataFrame]:
                 logger.warning(f"Channel folder not found: {channel_folder}")
                 continue
                 
-            csv_files = list(channel_folder.glob('*.csv'))
+            # Get all CSV files and sort them (for consistency)
+            all_csv_files = sorted(channel_folder.glob('*.csv'))
+            csv_files = all_csv_files[:100]  # Limit to first 100 files
+            
             if not csv_files:
                 logger.warning(f"No CSV files found in {channel_folder}")
                 continue
                 
-            logger.info(f"Found {len(csv_files)} CSV files for {channel}")
+            logger.info(f"Found {len(all_csv_files)} total CSV files for {channel}")
+            logger.info(f"Processing {len(csv_files)} CSV files for {channel}")
             
             # Load each CSV file with error handling
             dfs = []
@@ -87,21 +91,51 @@ def main():
         analyzer = VaccineBiasRemorseAnalyzer()
         
         # Load datasets from each channel
-        data_path = Path("DSCI789_data")  # Parent folder containing channel subfolders
+        data_path = Path("DSCI789_data")
         channel_data = load_dataset(data_path)
         
         # Analyze each channel separately
         for channel, df in channel_data.items():
             logger.info(f"Starting analysis for {channel}...")
+            
+            df['channel'] = channel
             results = analyzer.analyze_dataset(df)
             
-            # Print channel-specific summary statistics
-            print(f"\nAnalysis Summary - {channel}")
-            print("-" * 50)
+            # Print ALL analysis results
+            print(f"\nDetailed Analysis Results - {channel}")
+            print("=" * 60)
+            
+            # Print summary statistics
+            print("\nSummary Statistics:")
+            print("-" * 20)
             print(f"Total comments analyzed: {results['summary']['total_comments_analyzed']:,}")
             print(f"Remorse cases identified: {results['summary']['remorse_cases']:,}")
             print(f"Remorse rate: {results['summary']['remorse_rate']:.2f}%")
-            print()
+            
+            # Print temporal analysis
+            print("\nTemporal Analysis:")
+            print("-" * 20)
+            for period, stats in results['temporal_analysis'].items():
+                print(f"\nPeriod: {period}")
+                print(f"Total comments: {stats.get('total_comments', 'N/A'):,}")
+                print(f"Remorse cases: {stats.get('remorse_cases', 'N/A'):,}")
+                print(f"Remorse rate: {stats.get('remorse_rate', 'N/A'):.2f}%" if isinstance(stats.get('remorse_rate'), (int, float)) else "Remorse rate: N/A")
+            
+            # Print sentiment analysis
+            print("\nSentiment Analysis:")
+            print("-" * 20)
+            sentiment_analysis = results.get('sentiment_analysis', {})
+            print(f"Average sentiment score: {sentiment_analysis.get('avg_sentiment', 'N/A'):.3f}" if isinstance(sentiment_analysis.get('avg_sentiment'), (int, float)) else "Average sentiment score: N/A")
+            print(f"Sentiment distribution: {sentiment_analysis.get('sentiment_distribution', 'N/A')}")
+            
+            # Print topic analysis if available
+            if 'topic_analysis' in results and results['topic_analysis']:
+                print("\nTop Topics:")
+                print("-" * 20)
+                for topic, freq in results['topic_analysis'].items():
+                    print(f"{topic}: {freq:.2f}%" if isinstance(freq, (int, float)) else f"{topic}: N/A")
+            
+            print("\n" + "=" * 60 + "\n")
         
         logger.info("Analysis completed successfully for all channels")
         

@@ -42,7 +42,7 @@ class VaccineBiasRemorseAnalyzer:
         
         results = []
         for _, row in df.iterrows():
-            analysis = self.comment_analyzer.analyze_comment(row, self.remorse_patterns)
+            analysis = self.comment_analyzer.analyze_comment(row, self.remorse_patterns['admission'])
             if analysis['has_remorse']:
                 results.append(analysis)
         
