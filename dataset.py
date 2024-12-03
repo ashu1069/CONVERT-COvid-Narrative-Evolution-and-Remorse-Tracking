@@ -232,7 +232,7 @@ def create_dataset(data_folder: str) -> VaccinationCommentDataset:
 # Example usage
 if __name__ == "__main__":
     # Example code to demonstrate usage
-    data_folder = "extracted_text_cnn"
+    data_folder = "DSCI789_data/CNN/extracted_text_CNN"
     
     try:
         # Create and load dataset

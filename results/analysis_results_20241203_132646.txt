@@ -1,0 +1,156 @@
+=== VACCINE BIAS REMORSE ANALYSIS ===
+Analysis started at: 2024-12-03 13:26:46
+==================================================
+
+Processing data...
+
+=== DETAILED ANALYSIS REPORT ===
+==================================================
+
+1. DATASET OVERVIEW
+Total comments analyzed: 13,693
+Time range: 2022-12-07 04:05:26+00:00 to 2024-04-06 06:43:38+00:00
+
+Channel distribution:
+channel
+Unknown    13688
+FOX            5
+
+2. ANALYSIS FINDINGS
+
+=== OVERALL STATISTICS ===
+• Total Comments Analyzed: 13,693
+• Remorse Cases Identified: 330
+• Overall Remorse Rate: 2.41%
+
+=== CHANNEL ANALYSIS ===
+• Unknown:
+  - Remorse Cases: 330
+  - Total Comments: 13,688
+  - Remorse Rate: 2.41%
+  - Average Confidence Score: 1.15
+
+=== REMORSE TYPES BREAKDOWN ===
+• General Remorse:
+  - Count: 206
+  - Average Confidence: 1.13
+  - Political Distribution: {'progressive': 27, 'conservative': 58}
+• Personal Experience:
+  - Count: 45
+  - Average Confidence: 1.20
+  - Political Distribution: {'progressive': 15, 'conservative': 12}
+• Scientific Evidence:
+  - Count: 54
+  - Average Confidence: 1.19
+  - Political Distribution: {'progressive': 26, 'conservative': 8}
+• Medical Authority:
+  - Count: 25
+  - Average Confidence: 1.24
+  - Political Distribution: {'conservative': 4, 'progressive': 3}
+
+=== CATALYST PATTERNS ===
+• hospitalized: 2 cases (28.6%)
+• family member: 1 cases (14.3%)
+• got sick: 3 cases (42.9%)
+• got covid: 1 cases (14.3%)
+
+=== POLITICAL ALIGNMENT ===
+• Progressive: 71 cases (46.4%)
+• Conservative: 82 cases (53.6%)
+
+=== ENGAGEMENT METRICS ===
+• Average Engagement Score: 0.00
+
+=== EDIT PATTERNS ===
+• Edit Rate: 21.8%
+• Average Confidence in Edited Comments: 1.19
+
+=== TEMPORAL PATTERNS ===
+• 2022-12:
+  - Cases: 33
+  - Types: {'general_remorse': 20, 'scientific_evidence': 5, 'medical_authority': 6, 'personal_experience': 2}
+• 2023-01:
+  - Cases: 38
+  - Types: {'general_remorse': 23, 'scientific_evidence': 7, 'personal_experience': 6, 'medical_authority': 2}
+• 2023-02:
+  - Cases: 18
+  - Types: {'general_remorse': 15, 'scientific_evidence': 1, 'personal_experience': 2}
+• 2023-03:
+  - Cases: 18
+  - Types: {'general_remorse': 14, 'medical_authority': 1, 'scientific_evidence': 2, 'personal_experience': 1}
+• 2023-04:
+  - Cases: 21
+  - Types: {'general_remorse': 14, 'personal_experience': 4, 'scientific_evidence': 2, 'medical_authority': 1}
+• 2023-05:
+  - Cases: 8
+  - Types: {'scientific_evidence': 2, 'general_remorse': 4, 'personal_experience': 2}
+• 2023-06:
+  - Cases: 22
+  - Types: {'general_remorse': 15, 'scientific_evidence': 3, 'personal_experience': 3, 'medical_authority': 1}
+• 2023-07:
+  - Cases: 38
+  - Types: {'general_remorse': 20, 'scientific_evidence': 12, 'personal_experience': 3, 'medical_authority': 3}
+• 2023-08:
+  - Cases: 9
+  - Types: {'scientific_evidence': 3, 'general_remorse': 5, 'personal_experience': 1}
+• 2023-09:
+  - Cases: 28
+  - Types: {'general_remorse': 17, 'personal_experience': 3, 'medical_authority': 3, 'scientific_evidence': 5}
+• 2023-10:
+  - Cases: 8
+  - Types: {'general_remorse': 5, 'medical_authority': 1, 'personal_experience': 2}
+• 2023-11:
+  - Cases: 11
+  - Types: {'general_remorse': 5, 'medical_authority': 1, 'personal_experience': 3, 'scientific_evidence': 2}
+• 2023-12:
+  - Cases: 18
+  - Types: {'general_remorse': 10, 'personal_experience': 3, 'medical_authority': 1, 'scientific_evidence': 4}
+• 2024-01:
+  - Cases: 18
+  - Types: {'personal_experience': 3, 'general_remorse': 14, 'scientific_evidence': 1}
+• 2024-02:
+  - Cases: 13
+  - Types: {'general_remorse': 7, 'scientific_evidence': 4, 'medical_authority': 1, 'personal_experience': 1}
+• 2024-03:
+  - Cases: 28
+  - Types: {'general_remorse': 17, 'personal_experience': 6, 'scientific_evidence': 1, 'medical_authority': 4}
+• 2024-04:
+  - Cases: 1
+  - Types: {'general_remorse': 1}
+
+3. SUMMARY STATISTICS
+Total remorse cases: 330
+Overall remorse rate: 2.41%
+
+4. ENGAGEMENT ANALYSIS
+Average engagement score: 0.00
+Edit rate: 21.8%
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+= END OF REPORT =========================
+
+Analysis completed at: 2024-12-03 13:29:33
+Results saved to: DSCI789/results/analysis_results_20241203_132646.txt

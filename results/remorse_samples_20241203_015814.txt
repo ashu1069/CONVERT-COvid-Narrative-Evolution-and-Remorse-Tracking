@@ -1,0 +1,1107 @@
+=== VACCINE BIAS REMORSE SAMPLES ===
+
+Sample #1
+Text: why are all of the dems surprised remember we will elect anyone anyone is better than trump remember when trump said the pandemic sucks but we gotta suck it up put some bleach on it as a joke but all of you cried that he didn't care yet 4 years later everyone who was going to die from it died already at this point we have all had it already some of us have had it all 4 times already trump said biden will bring you open borders and a disastrous economy yet you asked for it you wanted biden to impose the mandates that crippled world economies you wanted him to shut down businesses over vaccines you wanted to shut down restaurants and other industries but for some reason you are confused why we have a problem with truckers coming back hence high prices or you didn't understand why we had a baby formula shortage you seem confused that when you take away cops crime goes up just because you make everything a misdemeanor so crime goes unreported doesn't mean its not happening you love not having cops and money because you asked for it and biden delivered
+Analysis:
+  comment_id: Ugyvo2hiY9U5n_oZMu94AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-06-29 03:26:59+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #2
+Text: the dsm diagnostic statistical manual personality disorders there is no such thing as a personality disorder let me prove it play this out with a few people a couple of you be law enforcement one be the psychiatrist you well you are the person the has no idea what is going on because they've got the wrong person i know a guy law enforcement turned up with psychiatrist to lock him up he had a similar name to the person they were actually looking for 'get your friggin' hands off me ' quick look how angry he is he needs his medication' this is the psychiatrist saying this then law enforcement do there thing and tackle him to the ground he then lets out a few words bad language probably because it hurt 'yep he's out of control law enforcement people have personalities government people are people who is the one person who is normal with no flaws to be like who dictates this if we're all like this person there is no individualism if i inject myself with diesel fuel a new disease is created would government study it or tell everyone to never inject themselves with diesel fuel if you didn't inject yourself are you in remission cancer industry pine pollen straight off the tree is the most nutritive thing on the planet lauric acid found in in breast milk coconuts spirulina chlorella google pdf this stuff or hold government accountable with their own research hidden in the n i h national institute of health pubmed nitrosamine zodiac cancer acrylamide why is the word 'cure not used or is it wise to not inject yourself with the filth to begin with you know if a dead pig is on the table people will eat it if you call it bacon start calling it what it is a dead pig on the table consequence is a bigger word than you think incubus i want you to think about the very first person who discovered dairy 'i found god clutching a razor blade sayin' look at the f 'n mess they've made they'd trade their hearts if they were made of gold but they're as worthless as the souls they've sold chinese people the yulin dog cat festival in china youtube vimeo caged then thrown in boiling water oh yeah horses chinese also the most pro abortion if you ever consider befriending or hanging out with anyone who looks to have chinese in them interrogate them first ask them what they've eaten in their life ask them the nationality of their parents background check they've consumed absolute filth and evidently understand vey little about nutrition the vietnamese are almost as bad the japanese are just awesome the other 'asians have a lot to learn if you believe a will come a day you may have to answer for everything if pretty safe to say you won't have pay a price for eating fruit veg nothing to answer for but did you ever pay cash for animal slaughter did you purchase hamburgers when someone says in love this can only be said to a significant other spouse or lover a car is not sentient said to a child that is incorrect do people earn only 40 per hour or sell an hour of their life for only 40 how many hours you got left don't live the same year 75 times and call it a life most people die at 25 and aren't buried until 75 a pizza society a slice of pizza you and your friends are one slice the slice next to that well those people kind of o k the slice opposite well those people are considered strange eh hide 'n seek often when a kid plays this game they'll count run to the other side of the house looking for those hiding the kid hiding behind the couch sofa the where he or she was counting often won't be found hidden in plain sight' you believe in patriotism if your parents made you in a different country would you think that country has the best government why is government correct in the country you live and not any other country vaccines msds materials safety data sheets stay away from these ingredients if 1 person has ever in the history of vaccination been damaged by a vaccine how do you know prior to injection that you'll will be 100 fine in future say government says 'vaccines are not what we thought' is it governments fault or are you to blame you as an adult want someone else to make your decision why did you enrol to vote i'm australian late 30's have never enrolled to vote i know a woman in her 60's has never enrolled to vote why didn't you question why some experts are drawn to different conclusions my mother often says some people are educated beyond their own intelligence they may be articulate but they speak above people and don't get the message across they sound like they know what they are talking about they sound authoritative cancer industry remission ask them why they don't use the word 'cure again if i inject myself with diesel fuel new disease is created if you didn't inject yourself with diesel fuel are you in remission a clairvoyant a clairvoyant will sell you garbage like time doesn't exist that is until you're bitten by a snake 'quick call someone they may only have 15 minutes ' why don't the media use the word 'truth the clairvoyant run media if you ever see a clairvoyant ask them to provide a timeline see another and ask why they a drawn to the same conclusion sit them both down together you have a car with a knock to the rear bar bodykit plastic part dent hairdryer pop it out don't waste your time with smash repair industry a play within a play a stage within a stage michael p s fasting autophage
+Analysis:
+  comment_id: Ugwl7LIEJp1_7Q4bJ5l4AaABAg
+  has_remorse: True
+  remorse_type: personal_experience
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-02-13 00:10:15+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #3
+Text: you ppl who cant understand wat trump is saying is the same ppl who was running around saying follow the science the vaccine will protect you from c19 how did thats work out for yous think you guys going through booster shot withdrawal
+Analysis:
+  comment_id: UgyKY8EaRBErzdtF8Dt4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-06-18 12:55:27+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #4
+Text: do these people not understand that the government never mandated the vaccine but private companies made individual choices in this free market and these rural areas have been forgotten by their republican elected officials maybe the right wing doesn't really care about their constituents with a majority of social services like food stamps going to white conservative communities
+Analysis:
+  comment_id: UgynrsVj2rgfV_kKw394AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-03-05 14:37:20+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: True
+
+==================================================
+
+Sample #5
+Text: don't these morons realize that after the vaccine came out people stopped dying from covid and if they did get sick they would be asymptomatic or their symptoms would be very mild a lot of anti vaccine people died like caleb wallace herman cain dr jimmy deyoung sr tod tucker or dusty and tristan graham known as the alabama pickers and countless others
+Analysis:
+  comment_id: Ugw4W1oiEJhF5YMghm14AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-03-02 22:42:32+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #6
+Text: there is a line between understanding and appeasement people in the media need to be courageous enough to defend that some thoughts are just plain abhorrent and should be confronted in the 1930s the american nazis and kkk were spreading propaganda against jewish people and other minorities should people have elevated their concerns to the same level as those of the jewish people who were being targeted do they not realize that there were nazis who were decent husbands wives fathers mothers etc citizens need to stop behaving like teenagers with freedom comes with responsibility in a society those responsibilities also extend to those around us there has to be a mutual respect you cannot expect me to appreciate your views when you are actively trying to disenfranchise me van jones cnn and their 'false equivalency' bothsiderism crap needs to be stopped if van jones and cnn are serious about engaging these people then they listen to the ones who left those movements instead of inserting their na ve ignorant points of view bigotry should never be excused the fact that someone calls himself a christian does not mean that he follows the words of jesus in case they forgot the bible was used by confederates to justify slavery anyone whose ideology mandates the disenfranchisement of another group because of their 'race' religion sex gender etc needs to be confronted while that man's views should be considered the fact remains that they were from a place of ignorance this is especially why history needs to be promoted and taught in schools his argument on the vaccine is not new people like that man will also not hesitate to enforce their rules on others while claiming martyrdom and prosecution as we can see in texas alabama florida and other states the founding fathers may have made many errors but one thing they were clear about was the separation of religion from government the united states is not and has never been a christian nation christianity also does not promote nation building so enough of this nonsense nazis were not entertained in the 40s and neither should these remnants of the confederacy
+Analysis:
+  comment_id: UgxLpCRcVSK6CukQEyN4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 2
+  timestamp: 2024-03-02 12:30:12+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: True
+
+==================================================
+
+Sample #7
+Text: anyone who thinks mandatory vaccines is fascists is just out to lunch vaccination programs have saved millions and millions of children lives every politician and leader should understand that an individual's choice is impacted by society's well being thats why we have seat belt and speed limit laws that's why we have laws on who can perform an operation vaccinating children in a class protect the others there was never mandates for vaccinations but is someone refused to get a vaccine required by public health experts that person may not be able to travel or practice as a health professional you wouldn t want someone to pass on small pox tuberculosis or zika virus public health measures prevent and protect people from these diseases yes science does develop greater understanding and with the understanding recommendations change as they should outbreaks lead to mandatory measures to prevent the spread and prevent hospitals from becoming overwhelmed
+Analysis:
+  comment_id: Ugw66wBnA_wZ5zMPDGJ4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-03-02 02:32:51+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #8
+Text: i can understand the vaccine part people actually lost their jobs livelihood for not taking the jab which was later found to cause long term side effects
+Analysis:
+  comment_id: UgyMQCyFhoyRMeb0g914AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-03-01 23:33:29+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #9
+Text: to me feels like a very van jones conversation looking beyond the politics to the person personally wouldn't have minded seeing some pushback discourse on his vaccine stance but again we see when we make an effort to understand each other instead of fight we find ourselves finding more common ground than we expect
+Analysis:
+  comment_id: Ugwstpbo3YFQnTlqT-14AaABAg
+  has_remorse: True
+  remorse_type: personal_experience
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-03-01 22:26:21+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #10
+Text: next they'll be saying if you cant conceive naturally then it's god's will these anti vaxx deniers must not realize that ivf was created through science and began with scientific research just like vaccine research
+Analysis:
+  comment_id: UgwkXuj09eiimEbTiep4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-02-23 21:14:00+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #11
+Text: revelation 13 15 18 king james version 15 and he had power to give life unto the image of the beast that the image of the beast should both speak and cause that as many as would not worship the image of the beast should be killed 16 and he causeth all both small and great rich and poor free and bond to receive a mark in their right hand or in their foreheads 17 and that no man might buy or sell save he that had the mark or the name of the beast or the number of his name 18 here is wisdom let him that hath understanding count the number of the beast for it is the number of a man and his number is six hundred threescore and six revelation 14 9 11 king james version 9 and the third angel followed them saying with a loud voice if any man worship the beast and his image and receive his mark in his forehead or in his hand 10 the same shall drink of the wine of the wrath of god which is poured out without mixture into the cup of his indignation and he shall be tormented with fire and brimstone in the presence of the holy angels and in the presence of the lamb 11 and the smoke of their torment ascendeth up for ever and ever and they have no rest day nor night who worship the beast and his image and whosoever receiveth the mark of his name covid 19 in sweden a vaccine passport on a microchip implant revelation 17 5 and upon her forehead was a name written mystery babylon the great the mother of harlots and abominations of the earth
+Analysis:
+  comment_id: UgxO8cvLP8Ou2jR3XU94AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-03-18 17:46:09+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #12
+Text: a million views and less than 28k likes i have one simple question when did they decide to make the front end of politics a giant staged circus event i mean i understand that politicians don't like citizens to know how the sausage is made in the back room but this is just a show for the sake of a show i mean seriously ukraine is the most important issue and wearing white to protest women's choice by the same administration that wanted to mandate vaccine's in the workforce these aren't clowns these are aliens or something in human skins i mean nothing else makes sense that they can all be this out of touch with humanity let alone a nation god help us all
+Analysis:
+  comment_id: Ugy4KlyGLQIl4bQQNEd4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-03-08 11:30:52+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: True
+
+==================================================
+
+Sample #13
+Text: it s sad to see my people of color voting for trump i m a brown man going bonkers trying to understand how citizen trump who is backed by white nationalist neo nazi kkk and now religious nationalists who are majority white and our people supporting him take for example mark robinson out of north carolina who trump says he is better than mlk he is the 2 0 version of mlk people we all know biden is old and is no spring chicken during the his non stop state to state campaign and make mistakes but get this old man in a slow down office grinding and he has done so much with that almost impossible to hold together coalition the biden administration and congressional democrats passed a series of bills the bipartisan infrastructure deal the inflation reduction act the chips and science act that will make this a decade of infrastructure and invention a decade of building of decarbonizing of researching they expanded the affordable care act and it worked more than 21 million people signed up for the a c a last year a record they did what democrats have promised to do forever and took at least the first steps toward letting medicare negotiate drug prices and the biden team they said they were going to run the economy hot that at long last they were going to prioritize full employment and they did and then inflation shot up not just here but in europe in canada pretty much everywhere the pandemic had twisted global supply chains and then the economy had reopened and people desperate to live again took their pandemic savings and spent and the biden team in partnership with jerome powell and the federal reserve got the rate of inflation back down and we are still beneath 4 percent unemployment ny times vote vote vote
+Analysis:
+  comment_id: Ugwm7pBwli9o1XAs7Hl4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-03-07 19:17:56+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #14
+Text: i will give it to biden i was nonplussed to realize he'd dropped out after his talk of sticking with it but perhaps this is for the best i would accept kamala harris as a presidential nominee as far as mike johnson he doesn't no his from a dang hole in the ground the republicans are poised to win by any means possible and i think voters should prepare to once again not have the results of the election accepted if the winner is not the republican nominee he couldn't win on his own merits against grandpa joe because of the poor job that he did as president and the state he left our nation in during the covid pandemic the cherry on a whipped sundae of awful statesmanship i don't think he was better with diplomacy just because he spent his time kissing the backsides of dictators that he obviously idolizes when the former president didn't win he couldn't handle it and we have spent four years watching a grown man act like a brat because he simply couldn't handle the public's response of 'no ' i wonder how many other people suffered over telling that man no makes me believe the allegations of women about his sexual misconduct after a long line of some what 50 or so men maybe it's fitting that we give a member of the other gender an actual shot at being president after all who better to bring justice to the supreme court than a former prosecutor go kamala 2024
+Analysis:
+  comment_id: Ugx7pOweoJxrhDGPOSB4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-07-22 22:24:19+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #15
+Text: the audacity of this panel to display such biased and over the top projection they know these cases are all coordinated by the whitehouse and doj they charge trump with rico cause a president questioned the way the georgia election counted votes as it turns out he had every right to there were 380k votes that were not counted each for trump that s a crime committed to this country and every citizen th govt is operating rico in every sense they sit there and say double standard trump is a president should be the current president they stole the election and this panel gaslights the eumbasses that watch them they haven t told the truth in years and the biased rhetoric that a news displays should make you worried what s the reason to not report the facts what s the reason to hate donald trump so openly and attack half the countries morals and beliefs what s the end game of cnn the pushed the vaccine they pushed russia hoax the let hillary slide on emails benghazi you gotta ask yourself why the defamation of trump what did he do to deserve the attacks biden has clearly ruined the country why continue the gas lighting why push for incompetent leaders and open borders why facilitate the downfall of this country are the cnn employees paid that good to openly and knowingly lie and tell america the wrong things and get us to choose things that are not good for us why cnn why why so negative about trump he just tried to make america great again is that not allowed the cnn employees must get their groceries paid for as an employee because if they went to the grocery store in the last couple of years the anchors would say enough of the bs they must have all the expenses paid for that americans are struggling to afford either lights or food of gas or lunch economy and safety if horrible on top of that they are pushing the social terrorism of the lgbtq cnn is anti american wake up left dummies can you read between the lines this trump trial had no crimes all of them doc case was a set up clearly in the documents jack smith tried to block out of public view and got mad at judge because she exposed the scheme dani willis went to the whitehouse multiple times with wade and he billed the city of atlanta for those visits so obviously business the new token cases had no crime all of them can t you see cnn is facility g the takeover of our country and govt they are the first news station to keep using the word democracy the subversion of language is the first step in a takeover now the republic for which it stands isn t even being fought for we gave up our form of govt with out a fight thanks to cnn and their collusion of left biased weasel partners cnn msnbc cbs nbc abc npr bloomberg forbes facebook google espn disney are all facilitating the takeover of our republic they are the enemy and you democrat voters can t realize what they are doing by jailing the leading candidate for president who had the last election stolen and collided against you people can t see what happening you will realize but it will be too late the date is july 11th americas fight or die you can t listened to these news channels they are owned by people who want to see america fall keep thinking the conspiracy theorist are crazy what have they been wrong about every conspiracy has turned out to be right except sandy hook 1 1000 and y all call the peopl trying to wake you up bozos you are the bozo for believing these pairs and hostile facilitators of the public enemy
+Analysis:
+  comment_id: Ugx1pPlPjbMopChM4vp4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: anti_vax
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 2
+  timestamp: 2024-06-04 02:58:05+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #16
+Text: funny how the left is turning on clooney for stating his opinion based on biden's abilities even after he supported both obama terms and fundraised for biden lol i guess questioning biden's abilities is the new questioning the covid vaccine lol when will people realize that you know who the bad guy is when you get bombarded by the media for questioning anything about a certain political side
+Analysis:
+  comment_id: UgwhQTVUEXHoQwiqv_h4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-07-12 16:56:33+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: True
+
+==================================================
+
+Sample #17
+Text: what's the next push for the vaccine will people get raptured and the government tell the left behind that it was aliens and only the vaccinated was protected and then they finish the trick to get people to go up and fight against god telling people there are aliens along with some proof some of it halographic would do the trick dont fall for it this someone person is the false prophet that will cause you to put your trust in the anti christ so just keep looking for that person while refusing jabs you will know they are the false prophet because that is what the bible says the false prophet does and please help me spread dumbed down message even a less complicated thinker will understand this side note 1st corinthians 6 19 19 do you not know that your bodies are temples of the holy spirit who is in you whom you have received from god you are not your own 1st corinthians 3 16 you yourselves are gods temple and that gods spirit dwells in your midst you missed the first sign the mark of the beast don't fall for the other signs please you can live in paradise before the fall satan made sure there was pride this is why i said they are having doctors and nurses dance on tv and the social websites and getting promoted to do so in early 2020 pride pride satan does not just need them to be on his side he wants pride to keep them from repenting this is the way of not repenting and be liable to hell they can't admit they was wrong and turn around why pride with all this evidence pride sadly it is working on some interesting i misspelled medicine it came out medicide so naturally i looked it up wow it's a word alright now the question is is medicide closer to suicide or genocide they wanted all doctors nurses and blacks to take it first or omnicide one of the big reasons people will stop going to churches and didn't protest i'm going to tell you a conspiracy since i am batting a 100 the vaccine downgrades the vmat2 gene which gives you the religious zeal right or wrong independent thinking the ability to stick to emotional indignation right or wrong this is way stronger than fluoride this is also a big reason why there will be a great falling away i cannot post links here you have to go to youtubes competitors for proof because they instantly block these links what will be the next big push to get people to take the vaccine called the mark of the beast here is a scenario that people would fall for the rapture happen and then they show some of the ships some holographs to make more and the government will tell you that the reason that you did not get abducted no they will admit ruptured they government will tell you it was the vaccine preventing you from getting abducted which will be really raptured then they will get all the trusting ones to take the vaccine and the conspiracy theorist raptured will not be done here to get people to see the truth not most anyway some of those being left behind will be in a second rapture this will be a bigger test because satan wants to use discouragement notice the multiple accounts in the scriptures and christ telling us let not those in the field first expect more than those the joined later but you still need to be talking to god about it in jesus name because as the father in charge of punishment he is the one determining repentance every knows that in revelations chapter 6 the white red black pale horses will ride causing people to take a scorpions tail needle white horse wars and rumors of war red horse prices of food and energy and medicine and entertainment to rise black horse and death following pale horse and they knew that someone will come on the scene and save the world from these things because the bible says this person will come to save us what the next push for the vaccine will people get raptured and the government tell the left behind that it was aliens and only the vaccinated was protected and then they finish the trick to get people to go up and fight against god telling people there are aliens along with some proof some of it halographic would do the trick dont fall for it every one knows that in revelations chapter 6 the white red black pale horses will ride causing people to take a scorpions tail needle white horse wars and rumors of war red horse prices of food and energy and medicine and entertainment to rise black horse and death following pale horse and they knew that someone will come on the scene and save the world from these things because the bible says this person will come to save us trump just played the obvious trump card he just talked ufo's he that talks them first is the one that gains all trust from both sides this someone person is the false prophet that will cause you to put your trust in the anti christ so just keep looking for that person while refusing jabs you will know they are the false prophet because that is what the bible says the false prophet does and please help me spread dumbed down message even a less complicated thinker will understand this side note 1st corinthians 6 19 19 do you not know that your bodies are temples of the holy spirit who is in you whom you have received from god you are not your own your body is the temple of god read 1st corinthians 3 16 you yourselves are gods temple and that gods spirit dwells in your midst if you missed the first sign the mark of the beast don't fall for the other signs please you can live in paradise before the fall satan made sure there was pride this is why i said they had doctors and nurses danced on tv for free and the social websites and got promoted to do so in early 2020 pride pride satan does not just need them to be on his side he wants pride to keep them from repenting this is the way of not repenting and be liable to hell they can't admit they was wrong and turn around why pride with all this evidence pride sadly it is working on some interesting i misspelled medicine it came out medicide so naturally i looked it up wow it's a word alright now the question is is medicide closer to suicide or genocide they wanted all doctors nurses and blacks to take it first or omnicide one of the big reasons people will stop going to churches and didn't protest i'm i'm going to tell you a conspiracy since i am batting a 100 the vaccine downgrades the vmat2 gene which gives you the religious zeal right or wrong independent thinking the ability to stick to emotional indignation right or wrong this is way stronger than fluoride this is also a big reason why there will be a great falling away i can not post links here you have to go to youtubes competitors for proof because they instantly block these links this is why i said they had doctors and nurses dance on tv and the social websites and getting promoted to do so in early 2020 pride pride satan does not just need them to be on his side at the start he wants pride to keep them from repenting ever this is the way of not repenting and being liable to hell they can't admit they were wrong and turn around why pride with all this evidence pride sadly it is working on some the government knew that once they introduce pride to the doctors and nurses they can't will stay trapped and not turn on them and it is working when they tell you trust the science they are saying trust man's science not gods no regrets this is saying to god you are not repentant about trusting man and not god the science was a code word or code phrase for trust man this symbol means new point being made you will never guess where i am leading with this don't you find it strange that biddens presidency is mirroring trump's presidency's problems even way worse example the news made fun of trump for his text's spelling and grammar comments about he would date his daughter if he was her age and free now we have bidden with way worse words and text the news made fun of trump junior for mental problems and mistakes now bidden has his crackhead son the news made fun of trump screwing up international relations now we have bidden leaving people and military equipment in iraq and dragging us into ukraine and possibly a world war this is so blantant a set up trump will swoop in and 'save' the world from all these problems unless god stops it why because he is the false prophet trying to look like john the baptist and he will lead us to the anti christ unless god cuts this short also on another subject when the rapture happens and then the government new will show some of the ships some holographs to make more and the government will tell you that the reason that you did not get abducted no they will admit ruptured they government will tell you it was the vaccine preventing you from getting abducted which will be really raptured then they will get all the trusting ones to take the vaccine and the conspiracy theorist raptured will not be done here to get people to see the truth not most anyway some of those being left behind will be in a second rapture this will be a bigger test because satan wants to use discouragement notice the multiple accounts in the scriptures and christ telling us let not those in the field first expect more than those the joined later but you still need to be talking to god about it in jesus name because the father is in charge of punishment he is the one determining repentance
+Analysis:
+  comment_id: Ugwfl3AMfIFsLFsPTRB4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: anti_vax
+  catalyst: None
+  political_lean: None
+  confidence_score: 3
+  timestamp: 2024-01-27 09:01:17+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #18
+Text: seriously again what dumb wits at cnn trump got off guard he is national hero he had me at fistful of respect and courage you cannot ever understand a billionaire that is not afraid of shots or covid being open meeting with anyone for world peace i love em
+Analysis:
+  comment_id: Ugzt7XG4Qb33KwNPLrF4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-07-27 05:26:00+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: True
+
+==================================================
+
+Sample #19
+Text: well it s obvious antichrist is from the root of three religions he is bloodthirsty monster he wants wwiii but it s not going to happen but it s up to you for how long you going to support those three monsters of wwiii ideas trump putin and netanyahu are you really need someone to tell you that and they have north korea idiot for go farther after china and india is going to get on their side that is planned but is not approved by universe because you should concentrate on natural disasters as you call it as called the reboot on earth happened many times and it s happening as we speak i got it you believe in fantasy but you go after human creation for your lifestyle but you don t have to believe to see the chaotic reality in this world it s reality not a fantasy and magic is a fantasy that lasts for moments before reality kicks on you need to use your resources to get ready for the worst you need use your resources to inform people how to survive and what to do create more classes and make famous with famous people create in way that people will follow and you don t need to make them do because it s not going to work this is the moment that you still have time for those who still can see and listen because you will need them to rebuild new world it s not about science because there will be no resources for science and vaccines peals there be no production if you understand what is the line of production as all it s not as hard as it sounds but it s still doable your faith is fantasy your world is real but you forget about the world that your world is built in
+Analysis:
+  comment_id: Ugyy_lfpfzA1tnVFmBN4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-03-11 06:12:35+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #20
+Text: you can begin with the issues that our own government is creating printing money to finance war after war bombing and killing others in the name of control if america is the 'big daddy' of all countries then it is uniquely positioned to assume the role of a true leader one that champions peaceful relations instead of instigating conflict and destruction true leadership is about fostering understanding cooperation and peace not perpetuating cycles of violence and suffering it's time for a shift in priorities where diplomacy and empathy guide our actions rather than aggression and dominance you can also begin with the issue that a president should not mandate a vaccine that has not been fully tested thereby handicapping its own people mandating an unproven vaccine not only infringes on individual rights but also raises serious questions about the government's duty to protect its citizens true leadership should prioritize thorough research transparency and respect for individual autonomy it's imperative that leaders uphold these principles to build trust and ensure the well being of the population instead of knocking someone else who is only trying to understand the situation from both sides why don't you begin with the issues i just mentioned it would make you a better reporter than reporting on what another reporter is doing maybe then you may rise to the level of reporting that tucker obviously has reached i hope this answers your question on where to begin
+Analysis:
+  comment_id: UgyFg26lLdRtUb-dWfF4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-02-22 04:55:43+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #21
+Text: i understand trump is not perfect but neither is biden if people really believe this was a fair trial it really scares me for the future for all cases that 99 9 of the time involve we the people not the 1 rich don t jump on the narrative of national news do your own homework look at chris cuomo who demonized the unvaccinated now karma has bit him in the butt
+Analysis:
+  comment_id: UgyaWD7w5wDoJl-bGRB4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-05-31 14:19:31+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #22
+Text: 2 47 most americans realize their finances were far better under trump than under biden well let's see 1 trump continued to run trillion dollar a year deficits despite the economy that obama gave him running fantastically deficits borrow money from our kids causing inflation later so we can have better times biden is running half the deficits that trump averaged 2 trump cut taxes for the rich by about a third but didn't cut spending so hello more deficits of course this is enjoyable for a few years like splurging on your credit cards to take a cruise you can't afford for your birthday but the bill eventually comes due right the bill came due 3 about a million americans died needlessly of covid under trump due to trump letting the strategic reserve of protective masks and clothing for hospitals go past its use by date he also failed to get vaccines in a timely manner and didn't use the bully pulpit to encourage people to mask up indoors in public spaces indeed he hospitalized some people on his debate prep team by going unmasked himself even though he knew he had covid so i don't know how you connect a million dead with good finances excepting that thanks to trump a lot of people got inheritances 4 most of the inflation is due to the aftereffects of covid on international supply chains which biden is working to make less problematic in the future even though trump was copacetic about the status quo and never did anything about it 5 some is also due to russia's invasion of ukraine for no reason which made food and energy prices spike trump's telling the neighborhood kids just give the bully your entire country because we don't want to spend an extra buck a gallon biden's not cozying up to the bully
+Analysis:
+  comment_id: Ugy4_sggCaj4EkYB_UR4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: hospitalized
+  political_lean: None
+  confidence_score: 2
+  timestamp: 2024-04-08 14:39:02+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #23
+Text: the first question is cnn asked a former us army general shouldn't the statement be from the current general who gets paid for it whatever the statement is it's probably maybe the same but second putin's statement was taken out of context why he has already offered several times to start peace negotiations but this is constantly being hushed up and covered up in the media who's crazy here nato is provoking the conflict that started the war now it does not want to end it putin with whom interviews were forbidden is being declared a tyrant just as trump is being sued for a court levy of several hundred million on the basis of some honest lady who suddenly remembered something and all without a jury polish and hungarian leaders are also tried to be declared as opposite of what they are rulers who really care about their people and who tries their country to be prosperous people are being brainwashed and trying to impose hunting stories like when there was covid for which some are also mercenary journalists did the job so now it doesn't matter that so many people died from a fake vaccine and the wrong way of treatment and people were imprisoned for months and many businesses failed so even now certain stories are being marketed so that a big war will happen and people swallow everything they hear without thinking it is in someone's interest people have to understand and ask themselves to whom whom interest is collapsing of agriculture and creating conflicts everyone should stand up for the establishment of peace and not spread war propaganda
+Analysis:
+  comment_id: UgwLgfsvYGjx3tZrXJl4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-03-03 16:32:53+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #24
+Text: 1 was it the greatest job creation in the last 50 years if you look at how many jobs were lost and the absolute destruction to the economy and then after that the increase of bringing those jobs back some lower paying and for some businesses to rebound others didnt rebound statistically it would suggest it was the greatest recovery but here is the problem you can't beat the horse dead and then pick it up and drag it 20 feet and say look how succesful i was at helping the horse move along the numbers that they're touting should never have had to be touted we should have not been talking about a recovery because we did almost everything wrong we could you can't take credit for destroying an economy and then having the american people somehow struggle back the am rican people do not believe the economy is good and they're right it's not theres a lot of weakneses still and people fear that if we have another pandemic theyll do the same stupid stuff again 2 who led the effort to deliver the vaccine the major part of the roll out for the actual vaccine happened under biden's watch but it was created under trump's watch this was somewhat a delusional talking point that anyone in dc realizes how weak it really was most americans don't believe democrats handled the situation well and they're touting it as a strength 3 they're gonna tout records like ny had a decrease in crime from 2023 after they had a 400 increase of crime leading up to that year so they had a drop of about 20 but they still had 80 higher than where they should be this is how politicians play with statistics they'll take a little sliver of time and if they've done an improvement from that little sliver of time failing to realize the entirety of the time in which they've been destructive with their policy's that's what they'll do
+Analysis:
+  comment_id: Ugw_Bd5mt5wwqd1Ohll4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-03-11 01:22:29+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #25
+Text: mister gupta has to be stirring it again he could not handle the pandemic fear he did not understand much of the synthetic mrna global human experiments so now he keeps trying to present himself as cancer expert perhaps he should start speculating on whether those synthetic mrna shots are causing turbo cancer and other problems not that he would really know for sure or would dare to explore
+Analysis:
+  comment_id: UgzKEe9DZVa6fjGxSwB4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-03-23 05:50:04+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #26
+Text: i just realized i will now be voting for jfk jr instead of vaccine junky trump
+Analysis:
+  comment_id: Ugw52elhzbh9DIrGmHF4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-03-31 20:32:44+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #27
+Text: multiple studies show no link between vaccines and autism a study can t prove a negative it can only fail to find a correlation break to clip of nicole speaking no single study can show the cumulative effect of one shot after another shot prior reference to multiple studies is invalid there haven t been any on all the vaccines together the author of that study had their medical license stripped and the study was revoked huh before the break you were talking about studies proving no link impossible they could only fail to find a link now you re referencing apparently a bad study that purported to find a link between vaccines and autism which wasn t what you are taking about before poor writing poor journalism gross misunderstanding of the scientific process cnn fails again no surprises there
+Analysis:
+  comment_id: UgwdMflAdaHq75xVX5p4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-03-31 11:41:35+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #28
+Text: trump should welcome a robert f kennedy jr candidacy no evidence about the vaccine a doctor discussed the increase of myocarditis being 35x over normal jimmy dore talked about vaccines injury to his neck a shoulder is that from the same protein that was discussed reality my vaccinated sister in law that gave everyone covid early in 2020 dropped dead of a heart attack healthy active no health issues her giving us the coronavirus was the only reason i didn t get the vaccination i never been anti vaccine i was google search what vaccines i needed when i went to turkey in 2002 the chiropractor aboard reminded me that we weren t going to be drinking out of puddles i didn t realize it for decades she was perhaps the first anti vax person i ever met
+Analysis:
+  comment_id: UgzSCkuAu9L7qx-9TNV4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-03-30 16:56:02+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #29
+Text: these journalists thinks they know more than a billionaire tech lawyer with a tremendous pedigree rooted in a deep educational background at stanford if a person with her background and her connections given she is a billionaire for fk sake questions the legitimacy of vaccine protocals why don't you try to understand thats a big fking hint that something is shady and wrong with that industry instead you sit on your fat asses at ab cnn couch and spat out your ignorance calling her an anti vaccer use your brains
+Analysis:
+  comment_id: UgwfgqscPmIr1EL0aYh4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-03-28 06:09:09+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #30
+Text: they were trying to do the same thing what's the vaccinations if anyone gets sick taking the vaccination they cannot be sued so i was trying to do the same thing with the oxycontin's i don't understand why that failed
+Analysis:
+  comment_id: UgwzJIZZN8yyiq52x954AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-06-27 15:32:27+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #31
+Text: i believe he is correct i think a trump victory is going to be overwhelming this is going to cause our democrat party to have to rethink we must realize that all of our tired old fashion progressive policies and procedures are no longer valid in today s post covid world largely our old fashion progressive policies are going to be responsible for a huge trump victory we are going to have to rethink new progressive policies and i suggest the following to give our democrat party a winning future 1 unleash america s energy sector under the previous administration the non partisan eia reported that the usa was the worlds leading producer of energy and america was energy independent unleashing america s energy sector is good for america 2 unleashed america s mining sector right now we have to import nitrogen from russia unleashed america s mining sector is good for america 3 unleash america s agricultural sector at one time america s agricultural sector fed the world unleashing america s armor is good for america 4 unleash americas innovation we saw what happened during the previous administration when trump rescinded bureaucratic red tape and brought two covid vaccines to market in record time even joe biden had to compliment trump on operation warp speed eliminating bureaucratic controls is good for america if our democrat party and actually above policy s american workers will advance an american will be better off
+Analysis:
+  comment_id: UgzQ-mL6o1nNTBFxJMt4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-07-10 14:16:39+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #32
+Text: i will never understand the argument that democracy is on the line argument we had 4 years of donald trump and at the end we were still in a democracy in the past 3 1 2 years of biden we have seen him bypass the supreme court student loans used osha to try and force the vaccination of 80 million people against their will and has allowed our borders to be over ran
+Analysis:
+  comment_id: UgzWaJJbQy-VjJP1Yy54AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-06-28 19:39:35+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #33
+Text: reasons i support kennedy first off the majority of people who believe the narrative that rfkjr is a crazy conspiracy theorist' do so because their knowledge of him is not knowledge but rather a caricature image artfully crafted by the corporate media using carefully cut sound bytes and misdirections why they are owned and paid for by big pharma big ag big oil and big chemical you don't bite the hand that feeds you kennedy is a man with plans carefully thought out plans one has to just check his website or his podcast for all his policies or listen to any of dozens of podcasts he's appeared on he's a man of integrity who genuinely wants to heal the division in our nation he's in a unique place as an independent to engage both sides of the isle like never before he's loved by people of all walks of life from all over the world who are tired of the american duopoly that george washington warned would destroy america 200 years ago washington interestingly was first and only independent president we have ever had kennedy s humble not afraid to be proven wrong and correct himself on important issues when presented with new facts or alternative viewpoints in other words he does not blindly dig in his heels and argue for something he doesn't believe in in order to toe the party line or appease corporate powers he's not afraid to change his mind as he did on the border and abortion rights issues he's never been a sockpuppet for the gop or dnc in the past nor any corporation for that matter and has proven he can't be bullied in his 40 years of campaigns and litigations against corporate greed and corruption the man appears on several long format podcasts weekly he prefers long format discussions healthy debates and challenges rather than quick sound bytes or attacks as he's a man of contemplation and introspection he actually listens and deeply considers problems and potential solutions you will never hear him attack biden or trump in a demeaning manner he has no interest as it doesn't solve anything but rather fuels the divide he's very vocal about corporate capture of our government and media and how he will dismantle it he's committed to ending the forever wars sucking our tax dollars by closing half of the international bases that only sow the seeds of resentment around the world ending the international arms dealing cutting the military budget in half in order to redirect that money to our own desperately neglected infrastructure here at home he wants to rein in nato and negotiate peace in the region rather than continue to provoke an endless and expensive war he's not interested in weaponizing law against his opponents as is happening now it's a waste of money and only serves to martyr opponents in his opinion i want to beat them on a debate stage he has often said not in a courtroom he has only ever been interested in challenging his opponents to open and honest debate over existential policies rather than shallow culture war issues that divide the nation he's determined to outlaw pharmaceutical advertisements in the media essentially freeing media from the corporate capture they are beholden to 70 of cable advertising is currently pharmaceutical ads making it impossible for anyone on mainstream media to criticize big pharma again you don't bite the hand that feeds you cnn he's determined to keep the pharmaceutical industry honest and transparent with publicized safety tests of every product including potential new vaccines and will never mandate a vaccine on a healthy person he will not blindly follow the corrupt experts who have held positions of authority for 50 years faucci and have lied about their practices to the public and under oath to not question the experts in kennedy's opinion is not only unconstitutional and not a value of democracy but one of a totalitarian government kennedy is never afraid to question and challenge the so called experts he has a solid plan for healing america's addictions to legal and illegal drugs ultra processed foods sugar and high fructose corn syrup he's a recovering addict who fell into a dark hole after his father was murdered he has been open and honest about it always and continues to seek solutions to america s addiction crisis see the youtube film healing america's addictions he truly understands blockchain technology and says he will put the federal budget on blockchain where it will be publicly available for anyone to audit that alone is a feat worthy of a vote for presidency imagine that he also understands the importance of free peer to peer decentralized digital currency bitcoin uncontrollable and incorruptible by banks and governments and has vowed to keep self custody of crypto currency legal and free and to block centralized central bank digital currencies our current administration has been pushing to outlaw self custody of cryptocurrency since 2022 claiming that they need to protect us from ourselves kennedy will pardon julian assange he was forced to plead guilty edward snowden and ross ulbrict during his first days in office as they fundamentally represent what it is to be an american in search of freedom truth and transparency he's determined to put a cap limit on real estate that can be owned by blackrock fidelity and the likes who are currently buying up properties at an alarming rate in order to artificially inflate the market this is market manipulation and he's assured us he will not allow it to proceed to keep young americans from buying homes as an experienced environmental attorney it goes without saying that he's going to continue to promote clean water clean soil clean air and regenerative farming he has enforced this with his vp pick he wants to bring preventative health maintenance into the forefront as the unhealthiest nation in the world with an atrocious sick care system kennedy wants to focus on nutrition and food as medicine not pharmaceutical wonder drugs that do little more than mask symptoms his border policy of higher walls and wider gates means that he will close the border to illegals and send asylum judges to the border to expedite procedures for legal immigrants he is not going to continue to write blank checks to netanyahu for him to use as he sees fit in his war on palestine kennedy actually hosts a podcast currently on which he invites both palestinians and israelis on for healthy and constructive dialogue has any other potential leader done that given his family history his own studies in world history and training as an attorney he is well suited for dialogue and mitigation in his podcast his guests have already brought many ideas for a peaceful solution to the table given kennedy's relentless successes against monsanto pheizer exxon dow and a host of other corrupt polluters and war mongers i don't believe kennedy will allow himself to be governed by corrupt health officials or the military industrial complex he's proven this time and again he's a writer yes he can write and his books are deeply profound and very enlightening full of facts and educated hypotheses people love to claim they are full of lies and misinformation most of those people have never read a single page if they had they would know that he puts qr code citations for everything and he's an attorney who knows what the consequences of lying are if he has lied then why has he never been sued for libel or slander and finally kennedy is an activist this is huge for me i relate to that an activist by definition is someone who takes action he has put his freedom and profession on the line for countless americans puerto ricans canadians native americans and mexicans he's been arrested dozens of times for his environmental activism this is the kind of man i want running our nation ya know
+Analysis:
+  comment_id: Ugxz6PocjFs8P9F6tOh4AaABAg
+  has_remorse: True
+  remorse_type: personal_experience
+  previous_stance: anti_vax
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 2
+  timestamp: 2024-06-29 00:56:31+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #34
+Text: what i would love to understand is we are concerned about women being able to have the right to do what they want with their body and not have the government tell them what to do but the vaccine doesn t apply didn t the government mandate us to vaccinate our body or we couldn t go to work make it make sense
+Analysis:
+  comment_id: UgytpZUahNeufu8aeWZ4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-06-28 13:15:36+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #35
+Text: after trump won more than 50 of the vote in iowa where haley placed a distant third members of the republican party quickly consolidated around the former president and endorsed him former 2024 candidates including biotech entrepreneur vivek ramaswamy south carolina sen tim scott and north dakota gov doug burgum campaigned with trump on the eve of the new hampshire primary florida gov ron desantis also took a parting shot at haley as he exited the field calling her platform a repackaged form of warmed over corporatism there was not a similar rush of support behind haley though former arkansas gov asa hutchinson endorsed her former new jersey gov chris christie did not and was caught on a hot mic saying she would get smoked haley entered the gop presidential race in february of last year becoming the first person after trump to launch a 2024 bid she polled in the low single digits for much of the first six months of her campaign but gained momentum after the first gop primary debate in august where she called for a consensus on abortion and stood out for her foreign policy experience she was well received in subsequent debates which helped fuel interest from voters and donors by late fall many wealthy republicans and some democrats looking for an alternative to trump started rallying behind haley she received the endorsement of billionaire charles koch s political network in november and her campaign announced it raised 24 million in the last quarter of the year she was also endorsed by sununu bolstering her campaign in one of her most promising states where 40 of registered voters identify as independent that momentum drew the attention of her rivals who started digging into her record and attempted to paint her as a candidate beholden to her donors desantis and his allies attempted to undercut her tough stance on china by highlighting her work wooing chinese companies to south carolina haley responded that governors across the country were recruiting chinese business at the time but that the us now has a better understanding of its relationship with china some of the wounds were self inflicted in mid november haley called for name verification of social media accounts which would have virtually eliminated anonymous posting she quickly retreated after a wave of backlash ahead of the iowa caucuses desantis latched on to a comment she made joking that iowa starts the nominating process and new hampshire corrects the results her biggest stumble came at the end of 2023 when she was asked about the cause of the civil war during an event in new hampshire haley failed to mention slavery in her response which prompted a wave of criticism from democrats and republicans in the days that followed she said that she was wrong to leave out slavery and highlighted her own experiences with racism as the daughter of indian immigrants who grew up in rural south carolina her views on race were highlighted again in january when she told a fox news host that the us has never been a racist country despite its history with legal discrimination haley argued that while she had experienced racism in her life she believed the country wasn t founded with the intent to perpetuate racism but haley known for saying she kick s back harder also went after her rivals she frequently blasted ramaswamy over his foreign policy stances accused desantis of lying about her record because he s losing and said trump was throwing temper tantrums because she was gaining on him after her third place finish in iowa haley declared the nominating contest a two person race between herself and trump a prediction that came true after desantis ended his campaign days before the granite state primary the race grew personal between trump and haley the former president elevated a post that falsely claimed haley wasn t eligible to be president because her parents weren t citizens when she was born in south carolina echoing the birther smears he had once leveled against former president barack obama trump also took to misspelling her first name nimarata nikki is the former governor s middle name and mocking her haley meanwhile questioned trump s mental competency after the former president confused her with former house speaker nancy pelosi during a campaign rally haley s political career started in 2004 when she beat a 30 year incumbent in a gop primary for a state house seat in lexington county south carolina during her 2010 gubernatorial bid she beat a congressman the state attorney general and the lieutenant governor in a crowded republican primary and narrowly beat her democratic opponent in the general election at the time haley was seen as a rising gop star and potential vice presidential pick in 2012 and 2016 she was selected to give the gop response in 2016 to president barack obama s final state of the union address on the presidential campaign trail haley highlighted her work in south carolina bringing jobs to the state and enacting conservative policies such as voter id and abortion restrictions one of the defining moments of haley s governorship came in 2015 when a white supremacist gunman killed nine black churchgoers at charleston s mother emanuel ame church after years of calling the confederate flag a sensitive issue haley called for the flag to be removed from the statehouse grounds days after the killings haley spent six years as governor of south carolina before becoming trump s ambassador to the united nations in 2017 as a presidential candidate she spoke often of the two years she spent at the un and the perspective it gave her on threats facing the us her calculated departure from the trump administration after two years on the job raised speculation about what was next for her she spent nearly a year on the board of boeing a company she worked with extensively in her south carolina days but resigned in march 2020 after executives discussed seeking covid 19 relief funding in the wake of the january 6 2021 attack on the us capitol haley said she believed her old boss had no future in politics and would not run for president in 2024
+Analysis:
+  comment_id: Ugx15Tkw-qjz5d_sxi14AaABAg
+  has_remorse: True
+  remorse_type: personal_experience
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-03-06 18:28:20+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #36
+Text: my mom was an lpn for 40 years when walking on the floor got to be difficult she switched to working in the infection control department she was working 14 hour days during covid just sending reports to the cdc she knows first hand that more people died that weren t vaccinated than those that were my whole family got vaccinated when it was finally available since then my mother sister and niece all have had mild covid two or three times i had the omicron variant once haven t had anything else covid since i bring all that up to show you how the vaccine may not be the vaccine we all hoped it would be and that it does or doesn t work the same for everybody also washing your hands frequently is the best way to prevent the spread of any germs more than you realize
+Analysis:
+  comment_id: UgzBRbdqFsvfgDZXzYF4AaABAg
+  has_remorse: True
+  remorse_type: personal_experience
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-06-18 21:08:45+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: True
+
+==================================================
+
+Sample #37
+Text: what trumpers fail to understand is that every other scientist in the world was also making decisions on the go there was no time to enact the proper scientific protocols to assess effectiveness and safety of vaccines wearing masks during an airborne pandemic isn't far fetched and the thought is to limit the spread not halt entirely they're crucifying fauci for his truth which ended up making the foolish ex president as a complete moron it's not about truth anymore or even about america its about going after anyone who dares contradict the foolishness of the top fool trump they've felt embraced by the one man willing to call their white supremacy good and by his willingness to call mexicans rapists a man fed by a silver spoon and grown in an elite family in new york is leading the very same group of people who claim to deeply hate elites the one thing that unites them to trump is his racism other than that they have zero in common
+Analysis:
+  comment_id: Ugwhnhq20C9YOT0sAS94AaABAg
+  has_remorse: True
+  remorse_type: personal_experience
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-06-22 17:19:05+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #38
+Text: remind me of jesus christ who was crucified on the cross they put him in chains led him off and handed him over to pilate the roman governor pilate asked jesus are you the king of the jews jesus answered so you say but he said nothing in response to the accusations of the chief priests and elders which surprised pilate in directly the world even icj told the world accused jews are doing genocide in gaza and father forgive them for they know not what they are doing jesus was accused of blasphemy blasphemy is a religious offence when a person says or does something regarded as being disrespectful to god in the eyes of of people when jesus claimed to be god's son he was insulting god but jesus christ is found in the quran and what it says about him places him far above the founder of islam now similar situation of israel giving a negative presentation even the un allows hezbollah to strikes missiles and rockets into israel but stop israel from retaliating this is absurd lets trace back the history of portugal jews and the south africans does bad blood still following within is their hidden agenda against the jews it's ok if israel commit genocide why intoxicated the world that it's was the jews now doing genocide and holocaust long long time ago there must be an agenda behind all these irrelevant whether american supporting israel or not can someone out there plot the route so that the world citizens could march into gaza with the blessing of israel to investigate the truth world is taken for a ride in believing in helping palestinians since 7 10 media and news have painted a pathetic stories starting with no food no water no fuel no medication how the hell these people build the tunnels stretching not yards but kilometres long not one but all over gaza yet donations and humanitarian aids pour in not by thousands but millions genocides look at the videos repeated over and over again dead bodies are recycle to make believe for the whole to believe that genocide going on no money israelis stop all humanitarians aids but the dead bodies in every videos and photos are wrap with a clean white cloth where the clean white cloth from in thousands to wrap up the dead bodies no fuel yet put on the trucks to go to another site ready for another video and photo shot i observed too only the mother cried for the dead children as for adults no wives or children around when carrying to the trucks all around was all able men and there are cars around no fuel all rubbish i seen bikes moving about seen humanitarian trucks red cross vehicles ambulances un and unwra vehicles going around telling the whole gaza no fuel or no money to buy fuel or running on water but no water what a silly joke if no water by now 255 days all the people in gaza will be dead by now think that we are idiots did not go to school without water there will be more death from genocide as human shield eating animal feeds un what rubbish evidences are there what swines or pigs they are feeding and farming in gaza how many tons are animals feed required to keep those palestinians alive not only that what about keeping the hamas fighters alive go and think i regretted doing donation in supporting gaza i am a great sinner in giving the money to the hamas leaders to kill the israelis and the jews on 7 10 while leaders wine dine women and song at 6 stars hotel all terrorists have money to fire 7 000 ballistic missiles rockets and drones into israel these hamas houthis hezbollah so closely knitted to help each other send arsenal weapons why these barbaric animals could not smuggle food and water into gaza if they could smuggle arms to give food and water to palestinians very ironic bull shits should not spin over board until now caught with their pants down now god in punishing if all of us sinners for not opening our eyes and ears natural disasters are more frequent just mecca sign of locusts pandemic dead sea drying up and rivers now in red colour record that thousands of pilgrims died while doing their haj even egypt now are stringent in muslim tours to mecca go find out who selling souls to satan be wary of big pot holes mysteriously appearing around gaza look out as under the beyond our eyes tunnels will collapses as big wide holes appearing underneath when you harm others you harm yourself thoughts for the day
+Analysis:
+  comment_id: Ugydwr4a5XDfKNNswXZ4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-06-24 04:31:10+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #39
+Text: joe listened to trump's answers too much reagan reused a zinger or two four years after taking down carter trump is saying the same things he said 8 years ago he's not a moving target joe could afford to ignore trump's schoolyard taunts and focus on pre planned answers t doesn't matter what he says b if he is secretly recorded showing battle plans to a chinese agent at his bedmister golf course how many times has he shown classified documents to a foreign agent when a reporter was not there to record it and people want this guy to have security clearance again the only reason he had it last time was that he was president he wouldn't have gotten it if appointed to any lower level post because of all his entanglements he gave five jobs to a family member who couldn't get security clearance and gave that family member's father a pardon t doesn't matter what he says b i don't know why you're asking him if he's going to concede if he loses this election 70 lost court cases later he still hasn't conceded for the last election he takes roy cohn's advice to deny deny deny a little too literally you remember roy cohn trump's late lawyer and also joe mccarthy's lead counsel during the red scare t doesn't matter what he says b trump went to saudi arabia to turn off the spigots i went there to open them back up again t doesn't matter what he says b not one gop member of the house voted for anti pricegouging legislation that's quite something considering that half of the price increases we've seen are because of price gouging due to the pandemic t doesn't matter what he says b one of the shortages we've had was in baby formula nafta was one of many treaties that trump renegotiated without understanding it first he taxed baby formula imports at 17 and actively discouraged importing formula from canada now he wants to push an inflationary tariff policy that has led fortune 500 ceos to donate not one dollar to his campaign because they know his plan will worsen inflation and add 5t to the national debt t doesn't matter what he says b if they were good times why did he add 7t to the national debt before the pandemic started you don't give away 1 5t to the top 1 for stock buybacks in good times you save it to soften the next downturn i inherited a recession and haven't had one since you inherited the fruits of good economic policy and took credit for it t doesn't matter what he says b yeah let's talk about the stock market during the pandemic you told everyone things were find the virus would subside by april you were just buying time for gop congressmen to dump their stock while prices were still high t doesn't matter what he says b you're brave to bring up fraud surely you invented it the fake elector scheme alone is disqualifying if your supporters were truly patriotic the fake elector scheme that you and giuliani cooked up would be enough for them to disavow you t doesn't matter what he says b you can't even say the word rebuttal or refute you can't even type out news coverage you think your youngest son the one who just graduated from college is 17 you think we have u s troops in ukraine you think it's a good idea to desert a prison of 2 500 isis fighters you freed 5 000 taliban although you denied it afterward once you saw how stupid it was you gave the order for all military families to leave south korea because you misunderstood what a general said on fox you need to stop getting your ideas from fox man it's making you stupid but then you always have been your education stalled at 8th grade because you twisted your sister 9 years your senior to do your homework for you and you're still a brat t doesn't matter what he says b doe 174 here balked when asked by fox if he'd open the epstein files fox edited his response as everyone knows fox lawyers argue in court that no reasonable person would believe that fox is trying to be accurate or factual fox knows the truth about this guy oh and if you read the new york post owned by rupert murdoch you might not know this since they never reported it but fox owned by rupert murdoch and mohammed bin salman settled with dominion for 770m for spreading trump's big lie you might remember mohammed bin salman the guy who trump met with to turn off the spigots to raise gas prices the guy who had a reporter critical of him kidnapped in the saudi embassy in turkey and cut up with a bone saw you'd like to treat reporters like that wouldn't you donald tell us how screwed up you think dominion's voting machines are donald i dare you t doesn't matter what he says b nixon dirty trickster roger stone got 40 months for committing crimes for trump trump got no time for stone's crimes trump maintains plausible deniability he commits crimes by remote control has someone else take the fall he's kind of like bin laden like that trump pardoned him charging trump or any of his thugs while he was still in office was a waste of taxpayer money trump would just pardon them all now stone is on hidden camera saying another violent insurrection won't be necessary that he and his dirty tricksters are far more prepared to overturn the will of the people if trump loses again he says he has a lawyer and judge on speed dial who's the lawyer who's the judge care to tell us trump i dare you t doesn't matter what he says b you wouldn't lead you wouldn't be a proper model and wear a mask because you didn't want your makeup smeared people refused the vaccine because you talked up horse de wormer and made everyone afraid of anything fauci advised do you think this guy was slumming it with horse de wormer he was hording monoclonal antibodies for himself and people sufficiently loyal to him or famous people he wanted to kiss up to and that's why the deaths after the vaccines came out were disproportionately in red states but you're not going to apologize to them for misleading them like that are you because malignant narcissists don't apologize they don't acknowledge they did anything wrong no matter how much the evidence piles up against their claims t doesn't matter what he says b you'd think that of all times to have a germophobe anxious to close the borders in the oval office a pandemic would be the time it would be helpful but it wasn't you fell short on both counts t i did not have sex with that woman b you paid stormy daniels 130 000 not to have sex with you there's no art in that deal
+Analysis:
+  comment_id: UgxFACHJdlJmGhw7QFd4AaABAg
+  has_remorse: True
+  remorse_type: personal_experience
+  previous_stance: None
+  catalyst: family member
+  political_lean: conservative
+  confidence_score: 2
+  timestamp: 2024-06-30 14:39:46+00:00
+  channel: Unknown
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #40
+Text: better understanding of autism by you know listening to autistic people means higher detection the ratio of autistic children children was 7 in 2007 which is the first prevalence reporting made by the cdc i'd like to remind you that in 2007 it was believed to be a majorly male condition and also specific presentations were diagnostic criteria rather than underlying behavior obsession with trains or dinosaurs for instance while a 2008 article posited the reason for it's skewed rate in males was because girls tended to become obsessed with things like anime manga for instance using this to point out that it's this obsessive quality special interest or spin in community that should be looked for and not the subject of such spins today the number sits around 2 4 considering the underrepresented to nonrepresented females bipoc queer and other minority groups that doesn't seem like such a huge increase in the 90s and 00s a plurality of those diagnosed autistic were middle to upper class white cisheterosexual males which is a very very specific group and not actually the be all end all basis of usaian plus we no longer have a second arbitrary diagnosis of aspergers it's all autism now as it always was but with a rating scale based on needed aid and not functionality considering autism has been detected in utero i say very confidently that vaccines didn't cause it however if i wasn't conceived developed born and raised autistic if it had been some side effect from a vaccine that prevented polio or measles or rubella or mumps good because i can say with 100 certainty that an autistic child is better than a dead one autism has never killed anyone just ignorant ableist assholes who wish to put their child out of their misery whose misery eh the child's or yours auti m peaks actually had an ad that included a mother who if she didn't have another daughter counting on her would have committed murder suicide by driving her and her autistic daughter into the river tell me again how a shot is the problem the diseases can kill and people can kill but growing up disabled isn't the end of the world we're only considered disabled because society wasn't built by people with brains that work like ours how many of you wear glasses in 1941 you'd be 4 f when trying to enlist in the army unfit for duty poor eyesight colorblindness were disabilities that prevented battle readiness in 1942 for cultural reasons remediable defects were suddenly acceptable if you could wear collective lenses you could join the army cut to 2024 when glasses are considered a normality to the point wear a bunch of people wear fake glasses because they're stylish when i say society dictates what is disability this is how also it's way more likely for society to move towards accommodating autis than accommodating the deceased
+Analysis:
+  comment_id: Ugyed8FgQr78t-JnPTN4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-03-27 22:53:52+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #41
+Text: you ppl who cant understand wat trump is saying is the same ppl who was running around saying follow the science the vaccine will protect you from c19 how did thats work out for yous think you guys going through booster shot withdrawal
+Analysis:
+  comment_id: UgyKY8EaRBErzdtF8Dt4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-06-18 12:55:27+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #42
+Text: do these people not understand that the government never mandated the vaccine but private companies made individual choices in this free market and these rural areas have been forgotten by their republican elected officials maybe the right wing doesn't really care about their constituents with a majority of social services like food stamps going to white conservative communities
+Analysis:
+  comment_id: UgynrsVj2rgfV_kKw394AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-03-05 14:37:20+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: True
+
+==================================================
+
+Sample #43
+Text: don't these morons realize that after the vaccine came out people stopped dying from covid and if they did get sick they would be asymptomatic or their symptoms would be very mild a lot of anti vaccine people died like caleb wallace herman cain dr jimmy deyoung sr tod tucker or dusty and tristan graham known as the alabama pickers and countless others
+Analysis:
+  comment_id: Ugw4W1oiEJhF5YMghm14AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-03-02 22:42:32+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #44
+Text: there is a line between understanding and appeasement people in the media need to be courageous enough to defend that some thoughts are just plain abhorrent and should be confronted in the 1930s the american nazis and kkk were spreading propaganda against jewish people and other minorities should people have elevated their concerns to the same level as those of the jewish people who were being targeted do they not realize that there were nazis who were decent husbands wives fathers mothers etc citizens need to stop behaving like teenagers with freedom comes with responsibility in a society those responsibilities also extend to those around us there has to be a mutual respect you cannot expect me to appreciate your views when you are actively trying to disenfranchise me van jones cnn and their 'false equivalency' bothsiderism crap needs to be stopped if van jones and cnn are serious about engaging these people then they listen to the ones who left those movements instead of inserting their na ve ignorant points of view bigotry should never be excused the fact that someone calls himself a christian does not mean that he follows the words of jesus in case they forgot the bible was used by confederates to justify slavery anyone whose ideology mandates the disenfranchisement of another group because of their 'race' religion sex gender etc needs to be confronted while that man's views should be considered the fact remains that they were from a place of ignorance this is especially why history needs to be promoted and taught in schools his argument on the vaccine is not new people like that man will also not hesitate to enforce their rules on others while claiming martyrdom and prosecution as we can see in texas alabama florida and other states the founding fathers may have made many errors but one thing they were clear about was the separation of religion from government the united states is not and has never been a christian nation christianity also does not promote nation building so enough of this nonsense nazis were not entertained in the 40s and neither should these remnants of the confederacy
+Analysis:
+  comment_id: UgxLpCRcVSK6CukQEyN4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 2
+  timestamp: 2024-03-02 12:30:12+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: True
+
+==================================================
+
+Sample #45
+Text: anyone who thinks mandatory vaccines is fascists is just out to lunch vaccination programs have saved millions and millions of children lives every politician and leader should understand that an individual's choice is impacted by society's well being thats why we have seat belt and speed limit laws that's why we have laws on who can perform an operation vaccinating children in a class protect the others there was never mandates for vaccinations but is someone refused to get a vaccine required by public health experts that person may not be able to travel or practice as a health professional you wouldn t want someone to pass on small pox tuberculosis or zika virus public health measures prevent and protect people from these diseases yes science does develop greater understanding and with the understanding recommendations change as they should outbreaks lead to mandatory measures to prevent the spread and prevent hospitals from becoming overwhelmed
+Analysis:
+  comment_id: Ugw66wBnA_wZ5zMPDGJ4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-03-02 02:32:51+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #46
+Text: i can understand the vaccine part people actually lost their jobs livelihood for not taking the jab which was later found to cause long term side effects
+Analysis:
+  comment_id: UgyMQCyFhoyRMeb0g914AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-03-01 23:33:29+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #47
+Text: to me feels like a very van jones conversation looking beyond the politics to the person personally wouldn't have minded seeing some pushback discourse on his vaccine stance but again we see when we make an effort to understand each other instead of fight we find ourselves finding more common ground than we expect
+Analysis:
+  comment_id: Ugwstpbo3YFQnTlqT-14AaABAg
+  has_remorse: True
+  remorse_type: personal_experience
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-03-01 22:26:21+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #48
+Text: trump just played the obvious trump card he just talked ufo's he that talks them first is the one that gains all trust from both sides this someone person is the false prophet that will cause you to put your trust in the anti christ so just keep looking for that person while refusing jabs you will know they are the false prophet because that is what the bible says the false prophet does and please help me spread dumbed down message even a less complicated thinker will understand this side note 1st corinthians 6 19 19 do you not know that your bodies are temples of the holy spirit who is in you whom you have received from god you are not your own your body is the temple of god read 1st corinthians 3 16 you yourselves are gods temple and gods spirit dwells in your midst one of the big reasons people will stop going to churches and didn't protest i'm i'm going to tell you a conspiracy since i am batting a 100 the vaccine downgrades the vmat2 gene which gives you the religious zeal right or wrong independent thinking the ability to stick to emotional indignation right or wrong this is way stronger than fluoride this is also a big reason why there will be a great falling away i can not post links here you have to go to you tubes competitors for proof because they instantly block these links this is why i said they had doctors and nurses dance on tv and the social websites and getting promoted to do so in early 2020 pride pride satan does not just need them to be on his side at the start he wants pride to keep them from repenting ever this is the way of not repenting and being liable to hell they can't admit they were wrong and turn around why pride with all this evidence pride sadly it is working on some the government knew that once they introduce pride to the doctors and nurses they can't will stay trapped and not turn on them and it is working when they tell you trust the science they are saying trust man's science not gods new world order is being triggered president no trump is setting this up for the new world order n w o this someone person is the false prophet that will cause you to put your trust in the anti christ so just keep looking for that person while refusing jabs you will know they are the false prophet because that is what the bible says the false prophet does this is not a complicated scripture 1st corinthians 6 19 19 do you not know that your bodies are temples of the holy spirit who is in you whom you have received from god you are not your own 1st corinthians 3 16 'you yourselves are gods temple and that gods spirit dwells in your midst ' you missed the first sign the mark of the beast don't fall for the other signs please you can live in paradise before the fall satan made sure there was pride this is why i said they are having doctors and nurses dance on tv and the social websites and getting promoted to do so in early 2020 pride pride satan does not just need them to be on his side he wants pride to keep them from repenting this is the way of not repenting and be liable to hell they can't admit they was wrong and turn around why pride with all this evidence pride sadly it is working on some interesting i misspelled medicine it came out medicide so naturally i looked it up wow it's a word alright now the question is is medicide closer to suicide or genocide they wanted all doctors nurses and blacks to take it first or omnicide one of the big reasons people will stop going to churches and didn't protest i'm going to tell you a conspiracy since i am batting a 100 the vaccine downgrades the vmat2 gene which gives you the religious zeal right or wrong independent thinking the ability to stick to emotional indignation right or wrong this is way stronger than fluoride this is also a big reason why there will be a great falling away i cannot post links here you have to go to youtubes competitors for proof because they instantly block these links what will be the next big push to get people to take the vaccine called the mark of the beast here is a scenario that people would fall for the rapture happen and then they show some of the ships some holographs to make more and the government will tell you that the reason that you did not get abducted no they will admit ruptured they government will tell you it was the vaccine preventing you from getting abducted which will be really raptured then they will get all the trusting ones to take the vaccine and the conspiracy theorist raptured will not be done here to get people to see the truth not most anyway some of those being left behind will be in a second rapture this will be a bigger test because satan wants to use discouragement notice the multiple accounts in the scriptures and christ telling us let not those in the field first expect more than those the joined later but you still need to be talking to god about it in jesus' name because as the father in charge of punishment he is the one determining repentance every 1 knows that in revelations chapter 6 the white red black pale horses will ride causing people to take a scorpions tail needle white horse wars and rumors of war red horse prices of food and energy and medicine and entertainment to rise black horse and death following pale horse and they knew that someone will come on the scene and save the world from these things because the bible says this person will come to save us what the next push for the vaccine will people get raptured and the government tell the left behind that it was aliens and only the vaccinated was protected and then they finish the trick to get people to go up and fight against god telling people there are aliens along with some proof some of it holographic would do the trick dont fall for it every one knows that in revelations chapter 6 the white red black pale horses will ride causing people to take a scorpions tail needle white horse wars and rumors of war red horse prices of food and energy and medicine and entertainment to rise black horse and death following pale horse and they knew that someone will come on the scene and save the world from these things because the bible says this person will come to save us no regrets this is saying to god you are not repentant about trusting man and not god the science was a code code phrase for trust man you will never guess where i am leading with this don't you find it strange that biddens is mirroring trump's presidency's problems even way worse example the news made fun of trump for his text's spelling and grammar comments about he would date his daughter if he was her age and free now we have bidden with way worse words and text the news made fun of trump junior for mental problems and mistakes now bidden has his crackhead son the news made fun of trump screwing up international relations now we have bidden leaving people and military equipment in iraq and dragging us into ukraine and possibly a world war this is so blantant a set up trump will swoop in and 'save' the world from all these problems unless god stops it why because he is the false prophet trying to look like john the baptist and he will lead us to the anti christ unless god cuts this short also on another subject when the rapture happens and then the government new will show some of the ships some holographs to make more and the gov will tell you that the reason that you did not get abducted no they will admit ruptured they government will tell you it was the vaccine preventing you from getting abducted which will be really raptured then they will get all the trusting ones to take the vaccine and the conspiracy theorist raptured will not be done here to get people to see the truth not most anyway some of those being left behind will be in a second rapture this will be a bigger test because satan wants to use discouragement notice the multiple accounts in the scriptures and christ telling us let not those in the field first expect more than those the joined later but you still need to be talking to god about it in jesus name because the father is in charge of punishment he is the one determining repentance what's the next push for the vaccine will people get raptured and the government tell the left behind that it was aliens because of the vaccine and then they finish the trick to get people to go up and fight against god telling people there are aliens abducing along with some proof some of it may be holographic do not fall for it
+Analysis:
+  comment_id: UgzTkrb0e8Me1lOrU7p4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: anti_vax
+  catalyst: None
+  political_lean: None
+  confidence_score: 3
+  timestamp: 2024-05-08 10:23:42+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #49
+Text: ok what about the warmonger biden how many wars did trump get us in how many wars did biden get us in where is his hard evidence this all seems like these are just bolton s opinions it s pretty obvious bolton is seeking retribution he says we need a leader to keep his eyes on the prize who is that who is he comparing trump to i suppose it s lord byron who can t even keep his eyes on what is directly in front of him then bolton accuses trump of only thinking about his decisions and the effect they have on trump himself oh you mean like using your power to further family business ventures seems like joe and hunter s bursima venture would fall into this category wake up biden is all about giving our wealth to his constituents don t forget we just witnessed the largest wealth transfer in the history of the world under the biden regime he gave tax payer money to corporations that promised us a gene therapy that would keep us from spreading the virus and was supposedly the only way to prevent a winter of death and destruction well they were wrong it didn t stop the spread and there is literally no way to prove it helped anyone you all realize the viruses lethality started to wain as soon as it left wuhan the resulting fall in deaths is more so correlated to this than whether or not you got poked i didn t comply and look here i am no ill side effects unlike those who took the jab there were more reports of vaccine injury with this gene therapy than any vaccine in the past this is what is known as fear mongering the big guy has been using this tactic throughout his career
+Analysis:
+  comment_id: UgzKohyVr8kkaQw6CeR4AaABAg
+  has_remorse: True
+  remorse_type: personal_experience
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-01-31 18:09:05+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #50
+Text: thank you joe biden for being one of the best president and for all of the good things that you have accomplished since you became the president of this country it is to bad that we have some people in this country that doesn t have any common sense can not see all of the good things that you have accomplish and all of the good that you have been trying so hard to do for the people of this country it piss the hell out of me how this people in this country think that joe biden is god and that he has to fix every single problems that we have here in this country and also on other part of the world too the man has not got a break since he became the president of this country is always something new that always pop up every day single day that joe biden has to deal with people seem to forget that one upon a time before joe biden became the president how bad things was back then when we have covid and how the people were fighting over toilet paper to wipe their butt people wasn t working business was closing down the gas was up 1 million of people die when joe biden took over and became the president he inherit the worse economy that this country has ever seen and all of the crab that he had to deal with that was going on in this country and in three and a half year joe biden have brought back this country back to her feet people don t realize that things take time before things get better look at where we are now covid just completely gone because of joe biden because he made sure that people got they vaccines things are way better now than what it was before joe biden became the leader of this country but no matter what joe biden do for the people of this country they will always be some one that will find something to complain about and will find something to blame joe biden the man cannot win either which way that he goes he will always lose and he can t not win damn if he do and damn if he don t
+Analysis:
+  comment_id: UgyVfnGF7kimTlRX8nx4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-04-30 19:40:32+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #51
+Text: i remember when ralph nader ran i voted for him he had fresh ideas and i resonated with him i too was sick of the 2 party system to pick the lesser of two evils as rfk jr said i was not happy when bush won and for the first time i realized that my vote helped out bush into office because by voting for nader it split the vote in the wrong direction just like rfk jr said tonight he is running and he will not win but he will split the vote and that could be very bad if trump gets back into office don t forget how bad it was when he was in the office it will be much worse because he s more prepared to operate like a dictator after all he tried to subvert the election and stay in office by what he did on january 6 not to mention all of the other crimes he s done by holding on high security documents when he left office to pay hush money in the 2016 cycle while he was running to help him win the election people these are all the types of things you need to think about it s always good to vote for who you want but this election is really more about voting for democracy in the first place for him to talk about joe biden not fighting for democracy is absurd joe biden has done a lot in the four years that he was here and yes there s been more debt racked up however the debt is not half and half by any means most of the debt was racked up during trump s time and he miss handled covid completely and that was a huge thing not to mention all the millions and millions of people that died on his watch from his miss handling of getting ahead of the virus rfk junior continued to spread lies that the vaccine was no good and that people died because of the vaccine which is untrue some people died that had the vaccine but that was not necessarily because they got the vaccine we were told that the vaccine would help prevent people from dying and it did some people could ve died also because their immune systems were already compromised if you re listening to newsmax or fox news those are clearly not the place to get fact based information they are both right wing news organizations if you don t believe me google them on wikipedia and see
+Analysis:
+  comment_id: UgwUzkfg69zVAEHwHPt4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 2
+  timestamp: 2024-04-07 06:45:27+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #52
+Text: wow he didn't say biden was personally censoring him he said biden appointed people to engage in censorship which he did he didn't post misinformation about covid or vaccines he posted factual information as we now know that was determined to be malinformation truthful but inconvenient january 6 was awful but these people keep insisting it was the first unarmed insurrection in human history and i don't think they realize how stupid it makes them sound
+Analysis:
+  comment_id: UgyMZoqtgnlbP0qS4Pp4AaABAg
+  has_remorse: True
+  remorse_type: personal_experience
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-04-04 15:32:55+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #53
+Text: daniel if you use your pea sized brain to process language around what rfk said about vaccine injuries you would realize that you are lying on the air about his position on the topic but i'm sure a pea sized brain can't really understand these complex topics
+Analysis:
+  comment_id: UgwVnvKk1Nu9WLYGr1t4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 2
+  timestamp: 2024-04-03 11:03:02+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #54
+Text: rfk is just another opportunist looking to grift a certain portion of the american people he is not a middle of the road straight talker l he is a phony he lies about vaccines and he lies about trump to curry favor with potential voters joe biden has nothing to do with courts finding trump guilty or innocent of a huge range of charges and by the way it is never ok to lie which is what trump and rfk junior do all the time discerning people understand this gullible people do not social media has normalized lying from the dangerous end of the political spectrum evidence and facts do not support anything rfk junior or trump says
+Analysis:
+  comment_id: Ugy-CY7KnyPI9QnFhjZ4AaABAg
+  has_remorse: True
+  remorse_type: scientific_evidence
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-04-02 22:41:12+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #55
+Text: this guy who clearly doesn't understand macro economics is living proof that brain worms don't come from vaccines
+Analysis:
+  comment_id: UgxG3c40o_A_AaiJhWh4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-04-02 01:43:39+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: True
+
+==================================================
+
+Sample #56
+Text: shut up rfk you disgraced yourself on news who promoted in anti covid vaccines ya care for no one but yourself you are disgraced to your ya know who every americans who cared for others will understand this get off from stupid news media s
+Analysis:
+  comment_id: Ugz0-hTqUHNWI4XtosR4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-04-02 01:08:01+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #57
+Text: why are all of the dems surprised remember we will elect anyone anyone is better than trump remember when trump said the pandemic sucks but we gotta suck it up put some bleach on it as a joke but all of you cried that he didn't care yet 4 years later everyone who was going to die from it died already at this point we have all had it already some of us have had it all 4 times already trump said biden will bring you open borders and a disastrous economy yet you asked for it you wanted biden to impose the mandates that crippled world economies you wanted him to shut down businesses over vaccines you wanted to shut down restaurants and other industries but for some reason you are confused why we have a problem with truckers coming back hence high prices or you didn't understand why we had a baby formula shortage you seem confused that when you take away cops crime goes up just because you make everything a misdemeanor so crime goes unreported doesn't mean its not happening you love not having cops and money because you asked for it and biden delivered
+Analysis:
+  comment_id: Ugyvo2hiY9U5n_oZMu94AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-06-29 03:26:59+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #58
+Text: image a person in high power who made everyones lifes hard to get a job education travel and live life without vaccine basically fkng your freedome and some people are mad thats wierd sure mgt is a bit crazy but open your brain a little bit and stop watching cnn educate your self and you will understand that this man is not a victim
+Analysis:
+  comment_id: Ugy00F7YiJ40VmHRA8F4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-07-09 15:56:45+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #59
+Text: the hostile reactions to fauci demonstrate no understanding of the field of virology the history of pandemics the historical effectiveness of vaccines in preventing disease and the scientific method
+Analysis:
+  comment_id: Ugyw2Y7QrXc9dmw92054AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-06-05 17:11:42+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #60
+Text: i bet all cnn followers got their vaccine shot passports i can t imagine how many of them realize how stupid they were and too ashamed to admit it trump fired fauci he right again
+Analysis:
+  comment_id: UgxgoYIcAj-ScYKAtn94AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-06-04 12:36:31+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #61
+Text: i'm shocked watching from australia what part of pandemic do people not understand here is a doctor with incredible credentials just doing his job mtg needs a dose of bubonic plague small pox measels polio whooping cough hiv to understand she would beg for dr fauci s knowledge
+Analysis:
+  comment_id: UgzpFDKO8renCbRinnF4AaABAg
+  has_remorse: True
+  remorse_type: medical_authority
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 1
+  timestamp: 2024-06-04 09:01:58+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #62
+Text: dr fauci is neither he isnt a hero or a villain he is a doctor and a scientist and a public servant he is imperfect and made mistakes but hes also save 1000s or millions of lives he is not a rich man and could have been far richer if he had not tried to help us he is not corrupt or evil and he has sacrificed his and his family safety to help americans often too dumb to understand what a vaccine actually is or why without it america would never have become a leading nation of the world science medicine and technology fuels our economy which is something someone as ignorant and closed minded as mtg will never understand despite enjoying all the benefits of those marvel
+Analysis:
+  comment_id: Ugz1eh_Aiub3t20xUSZ4AaABAg
+  has_remorse: True
+  remorse_type: personal_experience
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-06-04 03:33:18+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #63
+Text: mike johnson is a proven conservative could not be more of a ned flanders cartoon stereotype of the american right and even he isn't good enough for the maga controlled gop this whole situation is emblematic of how trumpist lunatics have completely subsumed the gop and alienated all moderates anyone willing to compromise on anything whatsoever and anyone who dares disagree with the maga movement on anything all because johnson dared vote with half of his party and compromise to keep the govt open but nope not good enough for the crazed trailer park boys comprising the maga movement this party is pushing away longtime voters who aren't down for all the whacky stuff i already decided a long time ago i'm voting for biden i'm just not down for all the craziness trump didn't win in 2020 the vaccine is not tracking you or a government plot nato is wonderful russia is trash voting for the biden great gop presidents like nixon and reagan are rolling over in their graves how could we not back ukraine wtf and voting against the border bill was a betrayal of what the gop has been promising its voters for decades of course the maga folks do not actually read things like the border bill or know what it would have done so they won't ever realize treacheries like this
+Analysis:
+  comment_id: UgwEnmGlzYlnql_ZwqJ4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: conservative
+  confidence_score: 1
+  timestamp: 2024-04-04 05:41:03+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #64
+Text: the reason why i will never support the government of israel and neither should you during the 1970s and 1980s there were reports and allegations that israel provided military support and weapons to the apartheid regime in south africa the apartheid regime in south africa enforced a system of racial segregation and discrimination oppressing the majority black population in the country here are some key points regarding the allegations of israeli support to the south african apartheid regime 1 military cooperation there were reports of military cooperation between israel and south africa during the apartheid era israel allegedly provided military equipment technology and expertise to the south african government 2 allegations of arms sales there were allegations that israel sold weapons including military aircraft armored vehicles and ammunition to the apartheid regime in south africa these sales were reportedly used by the south african government to suppress internal dissent and opposition to apartheid policies 3 political motivations the alleged military cooperation between israel and south africa during this period was influenced by various factors including shared security interests geopolitical considerations and a common perception of threats in their respective regions 4 international criticism the reported military cooperation between israel and the apartheid regime in south africa drew international criticism and condemnation many countries and organizations viewed such support as contributing to the perpetuation of human rights abuses and oppression in south africa 5 end of apartheid with the end of apartheid in the early 1990s and the establishment of a democratic government in south africa these allegations of israeli support to the apartheid regime became a subject of historical scrutiny and criticism it is important to note that the details and extent of israeli support to the apartheid regime in south africa during that period remain a subject of historical debate and controversy the allegations have been a point of criticism for israel's foreign policy during that era and have been cited as an example of international support for oppressive regimes copy paste and share israel's health ministry is investigating claims that ethiopian women are being injected with a controversial contraceptive without their knowledge or consent thousands of ethiopian women are said to be receiving shots of depo provera every three months in israeli clinics the contraceptive stops menstruation and has been linked to fertility problems and osteoporosis yaakov litzman israel's deputy minister of health who has previously denied the practice will lead the inquiry a spokesperson announced on wednesday the phenomenon was uncovered when social workers noticed the birth rate among ethiopian immigrants halving in a decade an israeli documentary investigating the scandal was aired in december and prompted a popular outcry it revealed that women were started on a course of contraceptive jabs while still in transit camps in ethiopia some without being told they were being given birth control and many having no idea of the side effects when they eventually arrived in israel doctors continued the treatment unquestioningly but the critical question remains unanswered as to who instigated the policy with neither israel nor ethiopia willing to claim responsibility sava reuben an ethiopian who has lived in israel since 1984 interviewed more than 35 women from her community for the film and found that 25 were still receiving contraceptive shots from healthcare providers reuben spoke to one woman who believed she had been given a flu vaccination and had no idea she had been injected with depo provera another was pregnant with her fifth child when she arrived in the transit camp where she would live for seven years the woman in her thirties told reuben that officials had gathered together all the new mothers in the camp and told them they would be given depo provera as it would be too difficult for them to give birth israel no we didn't want to take it we refused we said we didn't want it the unnamed woman recalls in the film she agreed to the injections only because she was told her immigration to israel would be blocked and she would receive no further healthcare in the camps if she refused this happened to many many other women reuben said more than 50 000 ethiopian jews have immigrated to israel in the past decade the fast growing community has struggled against bias in 1996 thousands rioted when it was discovered that the israeli health ministry had destroyed all stocks of blood donated by ethiopians on the grounds that it might be contaminated with hiv israel's health ministry has strongly denied allegations that the injections are part of a policy to control the growth of the ethiopian community the israel ministry of health neither advises nor encourages the use of depo provera injections and if they are being administered this is in despite of our view a spokesperson said and yet reuben claims to have discovered a letter from the health ministry to a clinic in ethiopia in 2000 thanking doctors there for the large numbers of women they had treated with depo provera why are only ethiopian women being given depo provera in israel it's supposed to be a last resort contraceptive israeli health authorities claim the injections are a cultural preference but in our culture to have lots of children is to be rich reuben said it is my opinion that this is a deliberate policy on the part of israel they are taking advantage of women who are weak because they are new to the country do not understand the language and who traditionally respect authority it makes me more than angry dr mushira aboodia a gynaecologist working at jerusalem's hadassah medical centre said the majority of ethiopian women she had met received depo provera injections this is a policy that no one will admit no one in israel will take responsibility for the treatment in the camps but someone must have instigated it and it would not be in ethiopia's interests to treat women preparing to leave the country aboodia said something is definitely wrong here i'm very glad the ministry of health will be investigating the issue they will need to do a thorough job a message from betsy reed editor of the guardian us i hope you appreciated this article before you move on i wanted to ask if you would consider supporting the guardian s journalism during one of the most consequential news cycles of our lifetimes from elon musk to the murdochs a small number of billionaire owners have a powerful hold on so much of the information that reaches the public about what s happening in the world the guardian is different we have no billionaire owner or shareholders to consider our journalism is produced to serve the public interest not profit motives and we avoid the trap that befalls much us media the tendency born of a desire to please all sides to engage in false equivalence in the name of neutrality we always strive to be fair but sometimes that means calling out the lies of powerful people and institutions and making clear how misinformation and demagoguery can damage democracy from threats to election integrity to the spiralling climate crisis to complex foreign conflicts our journalists contextualise investigate and illuminate the critical stories of our time as a global news organisation with a robust us reporting staff we re able to provide a fresh outsider perspective one so often missing in the american media bubble around the world readers can access the guardian s paywall free journalism because of our unique reader supported model that s because of people like you our readers keep us independent beholden to no outside influence and accessible to everyone whether they can afford to pay for news or not
+Analysis:
+  comment_id: UgxOUvws_ToF6IafspZ4AaABAg
+  has_remorse: True
+  remorse_type: medical_authority
+  previous_stance: None
+  catalyst: None
+  political_lean: progressive
+  confidence_score: 1
+  timestamp: 2024-04-19 17:44:54+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+
+Sample #65
+Text: have been a democrat until this summer and i stopped listening to the spin actually listened obama kept boarder down trump kept the boarder down suddenly its out of control what is different nothing my party has lied yes it was bad on jan 6 but i now understand that this administration suppressed information on the vaccine i paid attention because my 52 year old wife has als i am not saying the vaccine did it although that is what i do believe what i am saying is as i watched the hearings i was horrified that i was not allowed to hear the information as i listened to rfk not the spin and fact checked every damn word coming out of his mouth here as he said it i realized that we want war in ukraine i now think that this is the biggest threat to democracy i do not like trump even now because i do not believe he acts like a president but the i learned the facts from this case yes he overvalued his property according to some but to the bank it was not the bigger issue is all of these loans were paid off as agreed and the bank itself testified they did not have an issue with any of it where is the victim then you tried to have him removed from the ballot because democrats deem him dangerous because we are to stupid to choose for ourselves i can tell you the left ideology is the real danger this is dangerous everyone look of yourself there is no money in the boarder bill none zero ziltch 65 billion for ukraine 14 billion for israel democrats are going to the suppreme court to cut the wire down and let more people in please can we open our eyes and stop looking at the spin i am out
+Analysis:
+  comment_id: UgxAuqMdpyXtnqSPh9h4AaABAg
+  has_remorse: True
+  remorse_type: general_remorse
+  previous_stance: None
+  catalyst: None
+  political_lean: None
+  confidence_score: 2
+  timestamp: 2024-02-18 10:49:26+00:00
+  channel: FOX
+  engagement_score: 0
+  has_edit: False
+
+==================================================
+

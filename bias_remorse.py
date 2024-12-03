@@ -194,21 +194,39 @@ class VaccineBiasRemorseAnalyzer:
     def analyze_dataset(self, df: pd.DataFrame) -> Dict:
         """
         Analyze entire dataset for bias remorse
-        
-        Parameters:
-        df: DataFrame from dataset.py's get_analysis_ready_data()
-        
-        Returns:
-        Dict containing analysis results and statistics
         """
         self.logger.info("Starting dataset analysis...")
         
+        # Create results directory if it doesn't exist
+        from pathlib import Path
+        Path('DSCI789/results').mkdir(parents=True, exist_ok=True)
+        
         results = []
+        remorse_samples = []  # New list to store full samples
         for _, row in df.iterrows():
             analysis = self.analyze_comment(row)
             if analysis['has_remorse']:
                 results.append(analysis)
+                # Store the original text along with analysis results
+                remorse_samples.append({
+                    'text': row['cleaned_text'],
+                    'analysis': analysis
+                })
         
+        # Save remorse samples to file with updated path
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        samples_file = f'DSCI789/results/remorse_samples_{timestamp}.txt'
+        with open(samples_file, 'w', encoding='utf-8') as f:
+            f.write("=== VACCINE BIAS REMORSE SAMPLES ===\n\n")
+            for i, sample in enumerate(remorse_samples, 1):
+                f.write(f"Sample #{i}\n")
+                f.write(f"Text: {sample['text']}\n")
+                f.write("Analysis:\n")
+                for key, value in sample['analysis'].items():
+                    f.write(f"  {key}: {value}\n")
+                f.write("\n" + "="*50 + "\n\n")
+        
+        self.logger.info(f"Saved {len(remorse_samples)} remorse samples to {samples_file}")
         return self._generate_analysis_report(results, df)
 
     def _generate_analysis_report(self, results: List[Dict], full_df: pd.DataFrame) -> Dict:
@@ -435,11 +453,11 @@ if __name__ == "__main__":
     
     # Create results directory if it doesn't exist
     from pathlib import Path
-    Path('results').mkdir(exist_ok=True)
+    Path('DSCI789/results').mkdir(exist_ok=True)
     
     # Create filename with timestamp
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    results_file = f'results/analysis_results_{timestamp}.txt'
+    results_file = f'DSCI789/results/analysis_results_{timestamp}.txt'
     
     # Set up logging to both console and file
     sys.stdout = Logger(results_file)
@@ -450,7 +468,7 @@ if __name__ == "__main__":
         print("=" * 50)
         
         # Initialize dataset and analyzer
-        dataset = create_dataset("extracted_text_cnn")
+        dataset = create_dataset("DSCI789_data/vaccine_filtered_data/MSNBC")
         analyzer = VaccineBiasRemorseAnalyzer()
         
         # Get analysis-ready data and run analysis

@@ -1,0 +1,130 @@
+=== VACCINE BIAS REMORSE ANALYSIS ===
+Analysis started at: 2024-12-03 01:58:09
+==================================================
+
+Processing data...
+
+=== DETAILED ANALYSIS REPORT ===
+==================================================
+
+1. DATASET OVERVIEW
+Total comments analyzed: 1,823
+Time range: 2024-01-23 12:04:16+00:00 to 2024-08-04 03:31:00+00:00
+
+Channel distribution:
+channel
+Unknown    1234
+FOX         580
+CNN           9
+
+2. ANALYSIS FINDINGS
+
+=== OVERALL STATISTICS ===
+• Total Comments Analyzed: 1,823
+• Remorse Cases Identified: 65
+• Overall Remorse Rate: 3.57%
+
+=== CHANNEL ANALYSIS ===
+• Unknown:
+  - Remorse Cases: 39
+  - Total Comments: 1,234
+  - Remorse Rate: 3.16%
+  - Average Confidence Score: 1.18
+• FOX:
+  - Remorse Cases: 26
+  - Total Comments: 580
+  - Remorse Rate: 4.48%
+  - Average Confidence Score: 1.23
+
+=== REMORSE TYPES BREAKDOWN ===
+• General Remorse:
+  - Count: 38
+  - Average Confidence: 1.18
+  - Political Distribution: {'conservative': 15, 'progressive': 6}
+• Personal Experience:
+  - Count: 11
+  - Average Confidence: 1.18
+  - Political Distribution: {'conservative': 4, 'progressive': 2}
+• Scientific Evidence:
+  - Count: 14
+  - Average Confidence: 1.29
+  - Political Distribution: {'progressive': 4, 'conservative': 2}
+• Medical Authority:
+  - Count: 2
+  - Average Confidence: 1.00
+  - Political Distribution: {'progressive': 1}
+
+=== CATALYST PATTERNS ===
+• hospitalized: 1 cases (50.0%)
+• family member: 1 cases (50.0%)
+
+=== POLITICAL ALIGNMENT ===
+• Conservative: 21 cases (61.8%)
+• Progressive: 13 cases (38.2%)
+
+=== ENGAGEMENT METRICS ===
+• Average Engagement Score: 0.00
+
+=== EDIT PATTERNS ===
+• Edit Rate: 13.8%
+• Average Confidence in Edited Comments: 1.22
+
+=== TEMPORAL PATTERNS ===
+• 2024-01:
+  - Cases: 2
+  - Types: {'scientific_evidence': 1, 'personal_experience': 1}
+• 2024-02:
+  - Cases: 4
+  - Types: {'personal_experience': 1, 'scientific_evidence': 2, 'general_remorse': 1}
+• 2024-03:
+  - Cases: 25
+  - Types: {'general_remorse': 16, 'scientific_evidence': 6, 'personal_experience': 3}
+• 2024-04:
+  - Cases: 10
+  - Types: {'general_remorse': 7, 'personal_experience': 1, 'scientific_evidence': 1, 'medical_authority': 1}
+• 2024-05:
+  - Cases: 2
+  - Types: {'general_remorse': 1, 'scientific_evidence': 1}
+• 2024-06:
+  - Cases: 17
+  - Types: {'general_remorse': 8, 'scientific_evidence': 3, 'personal_experience': 5, 'medical_authority': 1}
+• 2024-07:
+  - Cases: 5
+  - Types: {'general_remorse': 5}
+
+3. SUMMARY STATISTICS
+Total remorse cases: 65
+Overall remorse rate: 3.57%
+
+4. ENGAGEMENT ANALYSIS
+Average engagement score: 0.00
+Edit rate: 13.8%
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+= END OF REPORT =========================
+
+Analysis completed at: 2024-12-03 01:58:14
+Results saved to: DSCI789/results/analysis_results_20241203_015809.txt
