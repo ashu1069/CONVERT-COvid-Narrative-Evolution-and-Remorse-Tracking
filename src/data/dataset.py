@@ -1,10 +1,12 @@
 import pandas as pd
-import numpy as np
+import csv
+import logging
 from pathlib import Path
 from datetime import datetime
 import re
 from typing import Dict, List, Optional, Tuple
 import logging
+import csv
 
 class VaccinationCommentDataset:
     def __init__(self, data_folder: str):
@@ -34,31 +36,67 @@ class VaccinationCommentDataset:
 
     def load_data(self, file: str) -> pd.DataFrame:
         """
-        Load data from a CSV file
+        Load data from CSV file with error handling and chunking
         """
         try:
-            # First load without parsing dates
-            df = pd.read_csv(file, low_memory=False, dtype={
-                'likeCount': 'Int64',
-                'totalReplyCount': 'Int64',
-                'isPublic': 'boolean'
-            })
-            
-            # Add source_file column
-            df['source_file'] = Path(file).name
-            
-            # Then parse dates with error handling
-            for col in ['publishedAt', 'updatedAt']:
-                df[col] = pd.to_datetime(df[col], format='ISO8601', errors='coerce')
-            
-            # Drop rows where date parsing failed
-            df = df.dropna(subset=['publishedAt', 'updatedAt'])
-            
-            self.logger.info(f"Successfully loaded {file}")
+            # First attempt: Try with Python engine which is more forgiving
+            df = pd.read_csv(
+                file,
+                engine='python',  # Use Python engine instead of C
+                encoding='utf-8',
+                on_bad_lines='skip',  # Skip problematic lines
+                quoting=csv.QUOTE_MINIMAL,  # Minimal quoting to avoid quote-related issues
+                dtype={
+                    'commentId': str,
+                    'publishedAt': str,
+                    'cleaned_text': str,
+                    'channel': str,
+                    'engagement_score': float,
+                    'has_edited': bool
+                }
+            )
             return df
+            
         except Exception as e:
-            self.logger.error(f"Error loading {file}: {str(e)}")
-            raise
+            logging.warning(f"First attempt failed: {str(e)}")
+            try:
+                # Second attempt: Try with C engine and low memory
+                df = pd.read_csv(
+                    file,
+                    engine='c',
+                    low_memory=False,
+                    encoding='utf-8',
+                    on_bad_lines='skip',
+                    quoting=csv.QUOTE_MINIMAL,
+                    dtype={
+                        'commentId': str,
+                        'publishedAt': str,
+                        'cleaned_text': str,
+                        'channel': str,
+                        'engagement_score': float,
+                        'has_edited': bool
+                    }
+                )
+                return df
+                
+            except Exception as e2:
+                logging.error(f"Second attempt failed: {str(e2)}")
+                try:
+                    # Last resort: Most permissive settings with Python engine
+                    df = pd.read_csv(
+                        file,
+                        engine='python',
+                        encoding='utf-8',
+                        on_bad_lines='skip',
+                        quoting=csv.QUOTE_NONE,  # Disable quoting
+                        escapechar='\\',  # Use backslash as escape character
+                        sep=',',  # Explicitly specify separator
+                    )
+                    return df
+                    
+                except Exception as e3:
+                    logging.error(f"All attempts failed. Final error: {str(e3)}")
+                    raise RuntimeError(f"Unable to load data from {file}. Please check file format and encoding.")
 
     def preprocess_data(self) -> pd.DataFrame:
         """
@@ -212,17 +250,57 @@ class VaccinationCommentDataset:
 def create_dataset(data_folder: str) -> VaccinationCommentDataset:
     """
     Helper function to create and initialize dataset
+    
+    Parameters:
+    data_folder (str): Path to folder containing CSV files
+    
+    Returns:
+    VaccinationCommentDataset: Initialized dataset object
+    
+    Raises:
+    FileNotFoundError: If no CSV files found in data_folder
+    RuntimeError: If unable to load any data from CSV files
     """
     dataset = VaccinationCommentDataset(data_folder)
     
-    # Load all CSV files from the data folder
+    # Check if folder exists
+    folder_path = Path(data_folder)
+    if not folder_path.exists():
+        raise FileNotFoundError(f"Data folder not found: {data_folder}")
+    
+    # Find all CSV files
+    csv_files = list(folder_path.glob('**/*.csv'))  # Use ** to search recursively
+    if not csv_files:
+        raise FileNotFoundError(f"No CSV files found in {data_folder} or its subdirectories")
+    
+    # Load all CSV files
     all_data = []
-    for csv_file in Path(data_folder).glob('*.csv'):
-        df = dataset.load_data(str(csv_file))
-        all_data.append(df)
+    failed_files = []
+    
+    for csv_file in csv_files:
+        try:
+            dataset.logger.info(f"Loading file: {csv_file}")
+            df = dataset.load_data(str(csv_file))
+            if not df.empty:
+                all_data.append(df)
+            else:
+                dataset.logger.warning(f"Empty dataframe from file: {csv_file}")
+        except Exception as e:
+            dataset.logger.error(f"Failed to load {csv_file}: {str(e)}")
+            failed_files.append((csv_file, str(e)))
+    
+    # Check if any data was loaded
+    if not all_data:
+        error_msg = "Failed to load any data.\n"
+        if failed_files:
+            error_msg += "Errors encountered:\n"
+            for file, error in failed_files:
+                error_msg += f"  {file}: {error}\n"
+        raise RuntimeError(error_msg)
     
     # Combine all dataframes
     dataset.raw_data = pd.concat(all_data, ignore_index=True)
+    dataset.logger.info(f"Successfully loaded {len(csv_files)} files")
     dataset.logger.info(f"Total records loaded: {len(dataset.raw_data)}")
     
     # Process the combined data
